@@ -19,7 +19,8 @@ class HardCodedClassifier:
 		
 	# ***Not used in this assignment***
 	def fit(self, training_set):
-		None
+		#The training_set is a list of data/target pairs
+		print("Training...")
 	
 	def predict(self, dataset):
 		return list(map(self.classify, dataset))
@@ -46,12 +47,13 @@ def main(argv):
 	names = iris.target_names
 	
 	# ***Not used in this assignment***
-	training_set = data_and_targets[0:(len(data_and_targets) // 3)]
+	training_set = data_and_targets[0:(len(data_and_targets) // 7)]
 	
-	learning_set = data_and_targets[(len(data_and_targets) // 3):]
+	learning_set = data_and_targets[(len(data_and_targets) // 7):]
 	DataOnly_learning_set = list(map((lambda x: x["data"]), learning_set))
 	
 	hc = HardCodedClassifier()
+	hc.fit(training_set) # doing nothing for now
 	predictions = hc.predict(DataOnly_learning_set)
 	
 	# Determine accuracy of our HardCodedClassifier
@@ -71,8 +73,7 @@ def main(argv):
 			
 	print (str(incorrect_count / len(learning_set) * 100) + "% Accurate.")
 	
-	
-	
+
 	
 	
 	
