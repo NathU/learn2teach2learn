@@ -1,0 +1,40 @@
+5. Number of Instances: 28056
+
+6. Number of Attributes:
+   There are six attribute variables and one class variable.
+
+7. Attribute Information:
+   1. White King file (column)
+   2. White King rank (row)
+   3. White Rook file
+   4. White Rook rank
+   5. Black King file
+   6. Black King rank
+   7. optimal depth-of-win for White in 0 to 16 moves, otherwise drawn
+	{draw, zero, one, two, ..., sixteen}.
+
+
+8. Missing Attribute Values: None
+
+9. Class Distribution:
+
+   draw       2796
+   zero         27
+   one          78
+   two         246
+   three        81
+   four        198
+   five        471
+   six         592
+   seven       683
+   eight      1433
+   nine       1712
+   ten        1985
+   eleven     2854
+   twelve     3597
+   thirteen   4194
+   fourteen   4553
+   fifteen    2166
+   sixteen     390
+
+   Total     28056

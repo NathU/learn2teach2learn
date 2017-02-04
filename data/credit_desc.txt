@@ -1,9 +1,3 @@
-
-    This dataset is interesting because there is a good mix of
-    attributes -- continuous, nominal with small numbers of
-    values, and nominal with larger numbers of values.  There
-    are also a few missing values.
-  
 5.  Number of Instances: 690
 
 6.  Number of Attributes: 15 + class attribute
