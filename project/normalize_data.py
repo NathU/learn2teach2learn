@@ -37,10 +37,10 @@ PAGO = 7
 ESTADO = 8
 
 def main(argv):
-	op = Operaciones()
+	op = Operaciones("bools")
 	mydata = op.data
 	
-	print("\nsome data:")
+	print("\nnew data looks like:")
 	for i in range(7):
 		print(mydata[i])
 
@@ -52,10 +52,10 @@ def main(argv):
 class Operaciones:
 	# param date_format control values: "offset", "month", or "bools"
 	def __init__(self, date_format = "offset" ):
-		filename = "./deals2.csv"
+		self.filename = "deals2.csv"
 		raw_data = []
 		try:
-			file = open(filename, "r")
+			file = open("./"+self.filename, "r")
 			raw_data = (file.read()).split("\n")
 			file.close()
 			self.data = list(map((lambda row: row.split(",")), raw_data))
@@ -79,28 +79,24 @@ class Operaciones:
 			month_a = list(map(lambda a: int(a), list(f_inicio.split("/"))))[0]
 			month_z = list(map(lambda a: int(a), list(f_fin.split("/"))))[0]
 			
-			final_inicio = None
-			final_fin = None
-			
 			if date_format == "offset":
-				final_inicio = self.normalize_date(self.to_dateObj(self.data[i][F_INICIO]) - self.base_date)
-				final_fin = self.normalize_date(self.to_dateObj(self.data[i][F_FIN]) - self.base_date)
+				self.data[i][F_INICIO] = self.normalize_date(self.to_dateObj(self.data[i][F_INICIO]) - self.base_date)
+				self.data[i][F_FIN] = self.normalize_date(self.to_dateObj(self.data[i][F_FIN]) - self.base_date)
 			
 			elif date_format == "month":
-				final_inicio = month_a
-				final_fin = month_z			
+				self.data[i][F_INICIO] = month_a
+				self.data[i][F_FIN] = month_z			
 			
 			elif date_format == "bools":
-				temp = [0,0,0,0,0,0,0,0,0,0,0,0]
-				final_inicio = temp
-				final_fin = temp
+				final_inicio = [0,0,0,0,0,0,0,0,0,0,0,0]
+				final_fin = [0,0,0,0,0,0,0,0,0,0,0,0]
 				final_inicio[month_a - 1] = 1
 				final_fin[month_z - 1] = 1
+				temp = self.data[i][0:F_INICIO] + final_inicio + self.data[i][F_INICIO+1:F_FIN] + final_fin + self.data[i][F_FIN+1:]
+				self.data[i] = temp
 			
-			self.data[i][F_INICIO] = final_inicio
-			self.data[i][F_FIN] = final_fin
-	
-	
+		
+		'''
 		# TODO: replace 'reseller' with a bool vector
 		resellers = list(numpy.transpose(self.data))[RESELLER]
 		reseller_vals = list(set(resellers))
@@ -124,6 +120,9 @@ class Operaciones:
 		state_vals = list(set(states))
 		print("\nState Values:")
 		print(state_vals)
+		'''
+		
+		self.write_newFile()
 	
 	
 	
@@ -135,7 +134,18 @@ class Operaciones:
 		days = str(list(str(timedelta).split(" "))[0])
 		return int(days) if days[0] != "0" else int(0)
 
-		
+	def write_newFile(self):
+		# write newly formatted data to a file.
+		new_filename = "new_"+self.filename
+		try:
+			f = open("./"+new_filename, 'w')
+			for row in self.data:
+				row_str = ",".join(list(map(lambda elem: str(elem), row)))
+				f.write(row_str+"\n")
+				
+			f.close()
+		except:
+			print("...error writing new file...")
 		
 		
 		
