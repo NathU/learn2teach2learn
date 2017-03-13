@@ -29,20 +29,31 @@ import numpy
 import sys
 import datetime
 
+ID = 0
 F_INICIO = 1
 RESELLER = 2
+ID_VENDADOR = 3
 TIPO_T = 4
+ID_CLIENTE = 5
 F_FIN = 6
 PAGO = 7
 ESTADO = 8
+ID_TECNICO = 9
 
 def main(argv):
-	op = Operaciones("bools")
-	mydata = op.data
 	
+	op = Operaciones("month")
+	
+	excluded_columns = [ID, RESELLER, ID_TECNICO]
+	op.write_newFile("rule_mine_me", excluded_columns)
+	
+	# Uncomment below to print sample of newly formatted data.
+	'''
+	mydata = op.data
 	print("\nnew data looks like:")
 	for i in range(7):
 		print(mydata[i])
+	'''
 
 	return 0
 
@@ -96,6 +107,7 @@ class Operaciones:
 				self.data[i] = temp
 			
 		
+		# FOr rule mining, we want nominal catagories
 		'''
 		# TODO: replace 'reseller' with a bool vector
 		resellers = list(numpy.transpose(self.data))[RESELLER]
@@ -120,9 +132,19 @@ class Operaciones:
 		state_vals = list(set(states))
 		print("\nState Values:")
 		print(state_vals)
+		
+		
+		salesmen = list(numpy.transpose(self.data))[3]
+		salesmen_IDs = list(set(salesmen))
+		print("\nSalesmen IDs:")
+		print(salesmen_IDs)
+		
+		clients = list(numpy.transpose(self.data))[5]
+		client_IDs = list(set(clients))
+		print("\nClient IDs:")
+		print(client_IDs)
 		'''
 		
-		self.write_newFile()
 	
 	
 	
@@ -134,14 +156,22 @@ class Operaciones:
 		days = str(list(str(timedelta).split(" "))[0])
 		return int(days) if days[0] != "0" else int(0)
 
-	def write_newFile(self):
+	def write_newFile(self, new_filename, excluded_columns):
+		print("Excluded Columns: "+str(excluded_columns))
 		# write newly formatted data to a file.
-		new_filename = "new_"+self.filename
+		#new_filename = "new_"+self.filename
 		try:
-			f = open("./"+new_filename, 'w')
+			f = open("./"+new_filename+".csv", 'w')
 			for row in self.data:
-				row_str = ",".join(list(map(lambda elem: str(elem), row)))
-				f.write(row_str+"\n")
+				#row_to_write = list(map(filter i: i not in excluded_columns, range(len(row))))
+				row_to_write = []
+				for i in range(len(row)):
+					if i not in excluded_columns:
+						row_to_write.append(row[i])
+				row_str = ",".join(list(map(lambda elem: str(elem), row_to_write)))
+				f.write(row_str)
+				if row is not self.data[-1]:
+					f.write("\n")
 				
 			f.close()
 		except:
