@@ -80,8 +80,8 @@ class Operaciones:
 
 
 		for i in range(len(self.data)):
-			self.data[i][ID_VENDADOR] = "salesman_"+str(self.data[i][ID_VENDADOR])
-			self.data[i][ID_CLIENTE] = "client_"+str(self.data[i][ID_CLIENTE])
+			self.data[i][ID_VENDADOR] = "salesman."+str(self.data[i][ID_VENDADOR])
+			self.data[i][ID_CLIENTE] = "client."+str(self.data[i][ID_CLIENTE])
 			
 			# Format Dates
 			f_inicio = self.data[i][F_INICIO]

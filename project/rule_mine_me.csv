@@ -1,0 +1,2151 @@
+10,salesman.7,Venta,client.1,10,Pago Contra Entrega,Terminada
+11,salesman.14,Venta,client.242,11,Pago ya Efectuado,Terminada
+11,salesman.14,Prestamo,client.259,11,Pago Posterior,Anulada
+11,salesman.4,Venta,client.246,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Anulada
+11,salesman.5,Venta,client.85,11,Pago Posterior,Terminada
+11,salesman.4,Soporte,client.86,11,Pago Posterior,Anulada
+11,salesman.4,Soporte,client.86,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.203,11,Pago ya Efectuado,Terminada
+11,salesman.5,Venta,client.203,11,Pago Contra Entrega,Terminada
+11,salesman.4,Venta,client.113,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.117,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.40,11,Pago Posterior,Terminada
+11,salesman.7,Retiro,client.117,11,Pago Contra Entrega,Terminada
+11,salesman.7,Venta,client.145,11,Pago Contra Entrega,Terminada
+11,salesman.14,Soporte,client.238,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.187,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.261,11,Pago Contra Entrega,Terminada
+11,salesman.5,Retiro,client.175,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.262,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.63,11,Pago ya Efectuado,Terminada
+11,salesman.7,Retiro,client.38,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.44,11,Pago Contra Entrega,Terminada
+11,salesman.4,Venta,client.135,11,Pago Posterior,Terminada
+11,salesman.5,Retiro,client.11,11,Pago ya Efectuado,Terminada
+11,salesman.4,Soporte,client.221,11,Pago Posterior,Terminada
+11,salesman.14,Retiro,client.253,11,Pago Posterior,Terminada
+11,salesman.14,Prestamo,client.259,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.211,11,Pago Contra Entrega,Terminada
+11,salesman.15,Retiro,client.222,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.3,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.12,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.12,11,Pago ya Efectuado,Terminada
+11,salesman.15,Venta,client.255,11,Pago Posterior,Terminada
+11,salesman.14,Prestamo,client.245,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.38,11,Pago Posterior,Terminada
+11,salesman.4,Prestamo,client.235,11,Pago Posterior,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.4,Venta,client.30,11,Pago Contra Entrega,Anulada
+11,salesman.7,Prestamo,client.263,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.264,11,Pago Posterior,Anulada
+11,salesman.7,Retiro,client.205,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.41,11,Pago Posterior,Terminada
+11,salesman.5,Retiro,client.150,11,Pago Contra Entrega,Terminada
+11,salesman.14,Soporte,client.253,11,Pago Posterior,Terminada
+11,salesman.7,Retiro,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.7,Retiro,client.78,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.98,11,Pago Contra Entrega,Anulada
+11,salesman.7,Retiro,client.226,11,Pago Contra Entrega,Terminada
+11,salesman.16,Venta,client.265,11,Pago Posterior,Terminada
+11,salesman.14,Venta,client.242,11,Pago ya Efectuado,Anulada
+11,salesman.15,Prestamo,client.266,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.267,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.264,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.98,11,Pago Contra Entrega,Terminada
+11,salesman.14,Venta,client.242,11,Pago ya Efectuado,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.166,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.12,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.117,11,Pago Posterior,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.5,Soporte,client.11,11,Pago ya Efectuado,Terminada
+11,salesman.4,Venta,client.30,11,Pago Contra Entrega,Terminada
+11,salesman.15,Retiro,client.249,11,Pago Posterior,Terminada
+11,salesman.16,Soporte,client.3,11,Pago ya Efectuado,Terminada
+11,salesman.7,Venta,client.38,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.211,11,Pago ya Efectuado,Terminada
+11,salesman.14,Retiro,client.245,11,Pago Posterior,Terminada
+11,salesman.14,Venta,client.242,11,Pago ya Efectuado,Anulada
+11,salesman.4,Venta,client.199,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.80,11,Pago ya Efectuado,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.30,11,Pago Contra Entrega,Terminada
+11,salesman.4,Soporte,client.83,11,Pago Posterior,Terminada
+11,salesman.7,Retiro,client.90,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.78,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.183,11,Pago ya Efectuado,Terminada
+11,salesman.7,Venta,client.45,11,Pago ya Efectuado,Terminada
+11,salesman.7,Retiro,client.217,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.5,Retiro,client.41,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.199,12,Pago Posterior,Terminada
+11,salesman.7,Retiro,client.135,11,Pago Contra Entrega,Terminada
+11,salesman.7,Retiro,client.94,11,Pago Contra Entrega,Terminada
+11,salesman.7,Retiro,client.41,11,Pago Contra Entrega,Terminada
+11,salesman.7,Retiro,client.166,11,Pago Contra Entrega,Terminada
+11,salesman.5,Soporte,client.41,11,Pago ya Efectuado,Terminada
+11,salesman.15,Retiro,client.257,11,Pago Posterior,Terminada
+11,salesman.4,Retiro,client.4,11,Pago Contra Entrega,Terminada
+11,salesman.15,Prestamo,client.268,11,Pago Posterior,Anulada
+11,salesman.14,Venta,client.242,11,Pago ya Efectuado,Terminada
+11,salesman.5,Venta,client.188,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.188,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.187,11,Pago Contra Entrega,Terminada
+11,salesman.4,Soporte,client.246,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.211,11,Pago Contra Entrega,Terminada
+11,salesman.14,Prestamo,client.269,11,Pago Posterior,Terminada
+11,salesman.16,Soporte,client.3,11,Pago Posterior,Terminada
+11,salesman.5,Soporte,client.12,11,Pago ya Efectuado,Terminada
+11,salesman.5,Venta,client.12,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,11,Pago Posterior,Terminada
+11,salesman.5,Prestamo,client.268,11,Pago Posterior,Terminada
+11,salesman.5,Prestamo,client.80,11,Pago Posterior,Terminada
+11,salesman.15,Prestamo,client.271,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.15,11,Pago Contra Entrega,Terminada
+11,salesman.5,Venta,client.78,11,Pago Posterior,Terminada
+11,salesman.5,Venta,client.41,11,Pago Posterior,Terminada
+11,salesman.14,Prestamo,client.272,11,Pago Posterior,Terminada
+11,salesman.7,Venta,client.145,11,Pago Contra Entrega,Terminada
+11,salesman.7,Retiro,client.84,11,Pago Contra Entrega,Terminada
+11,salesman.7,Venta,client.168,11,Pago ya Efectuado,Terminada
+11,salesman.14,Venta,client.238,11,Pago Posterior,Terminada
+11,salesman.5,Prestamo,client.112,11,Pago Posterior,Terminada
+11,salesman.14,Prestamo,client.238,11,Pago Posterior,Terminada
+11,salesman.15,Prestamo,client.271,11,Pago Posterior,Anulada
+11,salesman.15,Prestamo,client.271,11,Pago Posterior,Terminada
+11,salesman.15,Prestamo,client.273,11,Pago Posterior,Terminada
+11,salesman.16,Venta,client.3,11,Pago Contra Entrega,Terminada
+11,salesman.7,Venta,client.168,11,Pago ya Efectuado,Terminada
+11,salesman.5,Retiro,client.243,11,Pago Posterior,Terminada
+11,salesman.4,Soporte,client.4,12,Pago Posterior,Terminada
+11,salesman.4,Venta,client.30,12,Pago Posterior,Terminada
+11,salesman.15,Prestamo,client.266,12,Pago Posterior,Terminada
+11,salesman.5,Venta,client.187,12,Pago Posterior,Terminada
+11,salesman.5,Venta,client.7,12,Pago Posterior,Terminada
+11,salesman.5,Venta,client.44,12,Pago Contra Entrega,Terminada
+11,salesman.4,Venta,client.230,12,Pago Posterior,Terminada
+11,salesman.15,Prestamo,client.274,12,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+11,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+11,salesman.5,Venta,client.117,12,Pago Contra Entrega,Terminada
+11,salesman.15,Prestamo,client.275,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.38,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Prestamo,client.30,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.276,12,Pago ya Efectuado,Terminada
+12,salesman.4,Soporte,client.83,12,Pago Posterior,Terminada
+12,salesman.15,Prestamo,client.268,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.4,Venta,client.246,12,Pago Posterior,Terminada
+12,salesman.4,Retiro,client.246,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.211,12,Pago Contra Entrega,Terminada
+12,salesman.7,Venta,client.168,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.98,12,Pago Contra Entrega,Terminada
+12,salesman.5,Arriendo,client.277,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.246,12,Pago Posterior,Terminada
+12,salesman.15,Retiro,client.268,12,Pago Posterior,Anulada
+12,salesman.7,Venta,client.3,12,Pago Contra Entrega,Terminada
+12,salesman.15,Retiro,client.268,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.78,12,Pago Posterior,Terminada
+12,salesman.5,Soporte,client.38,12,Pago ya Efectuado,Terminada
+12,salesman.5,Soporte,client.38,12,Pago ya Efectuado,Terminada
+12,salesman.7,Venta,client.252,12,Pago Contra Entrega,Terminada
+12,salesman.4,Prestamo,client.246,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.5,Prestamo,client.80,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.181,12,Pago Contra Entrega,Terminada
+12,salesman.4,Retiro,client.4,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.279,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.117,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.117,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.61,12,Pago Contra Entrega,Terminada
+12,salesman.5,Soporte,client.211,12,Pago ya Efectuado,Terminada
+12,salesman.5,Venta,client.38,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.220,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.117,12,Pago Posterior,Terminada
+12,salesman.5,Retiro,client.183,12,Pago ya Efectuado,Terminada
+12,salesman.14,Venta,client.242,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.80,12,Pago Contra Entrega,Terminada
+12,salesman.4,Venta,client.116,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.3,12,Pago Contra Entrega,Terminada
+12,salesman.15,Venta,client.252,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.49,12,Pago Posterior,Terminada
+12,salesman.4,Prestamo,client.272,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.111,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.280,12,Pago Posterior,Terminada
+12,salesman.4,Soporte,client.27,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.135,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.78,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.96,12,Pago Posterior,Anulada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.68,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.187,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.84,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.14,Retiro,client.259,12,Pago Posterior,Terminada
+12,salesman.5,Soporte,client.211,12,Pago ya Efectuado,Terminada
+12,salesman.5,Venta,client.10,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.80,12,Pago Posterior,Terminada
+12,salesman.15,Venta,client.41,12,Pago Posterior,Terminada
+12,salesman.15,Retiro,client.271,12,Pago Posterior,Terminada
+12,salesman.15,Prestamo,client.278,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.220,12,Pago Contra Entrega,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.235,12,Pago Posterior,Terminada
+12,salesman.14,Retiro,client.242,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.211,12,Pago Contra Entrega,Terminada
+12,salesman.4,Venta,client.116,12,Pago Posterior,Anulada
+12,salesman.5,Venta,client.187,12,Pago Contra Entrega,Terminada
+12,salesman.4,Venta,client.116,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.267,12,Pago Contra Entrega,Terminada
+12,salesman.5,Prestamo,client.111,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.5,Retiro,client.112,12,Pago Posterior,Terminada
+12,salesman.4,Venta,client.68,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.180,12,Pago Posterior,Terminada
+12,salesman.14,Retiro,client.253,12,Pago Posterior,Terminada
+12,salesman.15,Venta,client.282,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.281,12,Pago Contra Entrega,Terminada
+12,salesman.14,Venta,client.49,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.3,12,Pago Contra Entrega,Terminada
+12,salesman.4,Venta,client.124,12,Pago Posterior,Terminada
+12,salesman.4,Soporte,client.199,12,Pago Posterior,Anulada
+12,salesman.15,Retiro,client.266,12,Pago Posterior,Terminada
+12,salesman.7,Retiro,client.38,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.38,12,Pago Posterior,Terminada
+12,salesman.5,Soporte,client.40,12,Pago ya Efectuado,Terminada
+12,salesman.7,Venta,client.283,12,Pago Contra Entrega,Terminada
+12,salesman.4,Soporte,client.4,12,Pago Posterior,Terminada
+12,salesman.4,Soporte,client.27,12,Pago Posterior,Terminada
+12,salesman.14,Venta,client.238,12,Pago Posterior,Anulada
+12,salesman.4,Soporte,client.199,12,Pago Posterior,Terminada
+12,salesman.14,Venta,client.238,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.80,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.211,12,Pago Contra Entrega,Terminada
+12,salesman.15,Venta,client.85,12,Pago Posterior,Terminada
+12,salesman.16,Venta,client.156,12,Pago Contra Entrega,Terminada
+12,salesman.4,Retiro,client.199,12,Pago Posterior,Terminada
+12,salesman.14,Retiro,client.269,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.7,Venta,client.3,12,Pago Contra Entrega,Terminada
+12,salesman.7,Venta,client.3,12,Pago Contra Entrega,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.15,Retiro,client.273,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.187,12,Pago Contra Entrega,Terminada
+12,salesman.5,Venta,client.277,12,Pago Posterior,Terminada
+12,salesman.5,Venta,client.187,12,Pago Contra Entrega,Terminada
+12,salesman.7,Venta,client.259,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.168,12,Pago ya Efectuado,Terminada
+12,salesman.15,Venta,client.275,12,Pago Posterior,Terminada
+12,salesman.15,Retiro,client.275,12,Pago Posterior,Terminada
+12,salesman.7,Venta,client.165,12,Pago Contra Entrega,Terminada
+1,salesman.14,Venta,client.242,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.230,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.272,1,Pago Posterior,Terminada
+1,salesman.4,Retiro,client.235,1,Pago Contra Entrega,Terminada
+1,salesman.14,Venta,client.49,1,Pago Posterior,Anulada
+1,salesman.7,Venta,client.145,1,Pago Contra Entrega,Terminada
+1,salesman.16,Soporte,client.3,1,Pago ya Efectuado,Terminada
+1,salesman.5,Soporte,client.211,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.90,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.90,1,Pago Contra Entrega,Terminada
+1,salesman.7,Prestamo,client.284,1,Pago Posterior,Terminada
+1,salesman.4,Retiro,client.199,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.285,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.3,1,Pago Contra Entrega,Terminada
+1,salesman.15,Venta,client.41,1,Pago Posterior,Terminada
+1,salesman.5,Retiro,client.117,1,Pago Contra Entrega,Terminada
+1,salesman.4,Venta,client.4,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.4,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.4,1,Pago Posterior,Terminada
+1,salesman.5,Prestamo,client.277,1,Pago Posterior,Terminada
+1,salesman.15,Venta,client.268,1,Pago Posterior,Terminada
+1,salesman.14,Prestamo,client.286,1,Pago Posterior,Terminada
+1,salesman.16,Soporte,client.3,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.287,1,Pago ya Efectuado,Terminada
+1,salesman.5,Venta,client.111,1,Pago Contra Entrega,Terminada
+1,salesman.15,Retiro,client.275,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.79,1,Pago Contra Entrega,Terminada
+1,salesman.14,Soporte,client.238,1,Pago ya Efectuado,Terminada
+1,salesman.15,Prestamo,client.288,1,Pago Posterior,Terminada
+1,salesman.15,Venta,client.41,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.68,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.199,1,Pago Posterior,Terminada
+1,salesman.14,Prestamo,client.289,1,Pago Posterior,Terminada
+1,salesman.7,Retiro,client.262,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.3,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.148,1,Pago Contra Entrega,Terminada
+1,salesman.4,Soporte,client.27,1,Pago Posterior,Terminada
+1,salesman.7,Retiro,client.30,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.38,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.86,1,Pago Contra Entrega,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.14,Prestamo,client.290,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.5,Venta,client.38,1,Pago Posterior,Terminada
+1,salesman.4,Retiro,client.4,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.27,1,Pago Posterior,Terminada
+1,salesman.4,Prestamo,client.156,1,Pago Posterior,Terminada
+1,salesman.15,Venta,client.268,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.4,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.10,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.3,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.78,1,Pago Contra Entrega,Terminada
+1,salesman.4,Prestamo,client.291,1,Pago Posterior,Terminada
+1,salesman.5,Soporte,client.183,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.5,Venta,client.292,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.293,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.294,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.295,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.296,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.297,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.298,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.299,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.300,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.301,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.302,1,Pago Posterior,Terminada
+1,salesman.15,Prestamo,client.274,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.283,1,Pago Posterior,Terminada
+1,salesman.17,Venta,client.30,1,Pago Contra Entrega,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.5,Venta,client.80,1,Pago Posterior,Terminada
+1,salesman.7,Retiro,client.235,1,Pago Contra Entrega,Terminada
+1,salesman.5,Venta,client.94,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.303,1,Pago Contra Entrega,Terminada
+1,salesman.7,Venta,client.279,1,Pago Posterior,Terminada
+1,salesman.5,Retiro,client.243,1,Pago Posterior,Terminada
+1,salesman.5,Prestamo,client.80,1,Pago Posterior,Terminada
+1,salesman.16,Prestamo,client.156,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.45,1,Pago Contra Entrega,Terminada
+1,salesman.7,Prestamo,client.78,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.168,1,Pago Contra Entrega,Terminada
+1,salesman.14,Venta,client.242,1,Pago Posterior,Anulada
+1,salesman.4,Soporte,client.199,1,Pago Posterior,Terminada
+1,salesman.14,Venta,client.242,1,Pago Posterior,Anulada
+1,salesman.5,Soporte,client.183,1,Pago ya Efectuado,Terminada
+1,salesman.15,Venta,client.304,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.3,1,Pago Contra Entrega,Anulada
+1,salesman.14,Retiro,client.238,1,Pago Contra Entrega,Terminada
+1,salesman.17,Venta,client.30,1,Pago Contra Entrega,Terminada
+1,salesman.14,Venta,client.242,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.80,1,Pago Contra Entrega,Terminada
+1,salesman.17,Prestamo,client.106,1,Pago Posterior,Anulada
+1,salesman.14,Soporte,client.49,1,Pago ya Efectuado,Terminada
+1,salesman.4,Prestamo,client.305,1,Pago Posterior,Terminada
+1,salesman.4,Retiro,client.116,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.78,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.117,1,Pago Contra Entrega,Terminada
+1,salesman.5,Venta,client.78,1,Pago Posterior,Terminada
+1,salesman.7,Retiro,client.252,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.78,1,Pago Contra Entrega,Terminada
+1,salesman.5,Venta,client.40,1,Pago Posterior,Terminada
+1,salesman.14,Prestamo,client.306,1,Pago Posterior,Terminada
+1,salesman.7,Retiro,client.84,1,Pago Contra Entrega,Terminada
+1,salesman.7,Retiro,client.41,1,Pago Contra Entrega,Terminada
+1,salesman.5,Venta,client.307,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.38,1,Pago Posterior,Terminada
+1,salesman.4,Venta,client.230,1,Pago Posterior,Terminada
+1,salesman.4,Soporte,client.199,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.38,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.3,1,Pago Contra Entrega,Terminada
+1,salesman.5,Venta,client.111,1,Pago Contra Entrega,Terminada
+1,salesman.4,Venta,client.4,1,Pago Posterior,Terminada
+1,salesman.18,Prestamo,client.308,1,Pago Posterior,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.168,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.195,1,Pago ya Efectuado,Terminada
+1,salesman.7,Venta,client.170,1,Pago Contra Entrega,Terminada
+1,salesman.5,Arriendo,client.277,1,Pago Posterior,Terminada
+1,salesman.5,Venta,client.277,1,Pago Posterior,Terminada
+1,salesman.16,Arriendo,client.309,1,Pago Posterior,Terminada
+1,salesman.16,Arriendo,client.94,1,Pago Posterior,Terminada
+1,salesman.17,Venta,client.30,1,Pago Posterior,Terminada
+1,salesman.17,Venta,client.30,2,Pago Posterior,Terminada
+1,salesman.5,Venta,client.310,2,Pago Contra Entrega,Terminada
+1,salesman.17,Venta,client.106,2,Pago Posterior,Anulada
+1,salesman.7,Venta,client.251,2,Pago ya Efectuado,Terminada
+2,salesman.17,Venta,client.231,2,Pago Posterior,Terminada
+2,salesman.7,Venta,client.168,2,Pago ya Efectuado,Terminada
+2,salesman.14,Venta,client.242,2,Pago Contra Entrega,Terminada
+2,salesman.4,Prestamo,client.124,2,Pago Posterior,Terminada
+2,salesman.5,Arriendo,client.277,2,Pago ya Efectuado,Terminada
+2,salesman.15,Venta,client.41,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.303,2,Pago ya Efectuado,Terminada
+2,salesman.7,Prestamo,client.311,2,Pago Posterior,Terminada
+2,salesman.14,Venta,client.35,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Anulada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.18,Prestamo,client.312,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.63,2,Pago Contra Entrega,Terminada
+2,salesman.15,Venta,client.288,2,Pago Posterior,Terminada
+2,salesman.17,Prestamo,client.30,2,Pago Posterior,Terminada
+2,salesman.14,Venta,client.35,2,Pago Posterior,Terminada
+2,salesman.7,Retiro,client.80,2,Pago Contra Entrega,Terminada
+2,salesman.5,Prestamo,client.243,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.38,2,Pago Posterior,Terminada
+2,salesman.14,Retiro,client.286,2,Pago Posterior,Terminada
+2,salesman.17,Venta,client.313,2,Pago Posterior,Anulada
+2,salesman.14,Prestamo,client.314,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.27,2,Pago Posterior,Terminada
+2,salesman.17,Venta,client.313,2,Pago Posterior,Anulada
+2,salesman.7,Venta,client.315,2,Pago Contra Entrega,Terminada
+2,salesman.15,Retiro,client.85,2,Pago Posterior,Terminada
+2,salesman.17,Venta,client.231,2,Pago Posterior,Terminada
+2,salesman.15,Prestamo,client.268,2,Pago Posterior,Anulada
+2,salesman.5,Venta,client.98,2,Pago Contra Entrega,Terminada
+2,salesman.5,Retiro,client.180,2,Pago Contra Entrega,Terminada
+2,salesman.14,Venta,client.289,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.7,Venta,client.168,2,Pago Contra Entrega,Anulada
+2,salesman.7,Venta,client.168,2,Pago ya Efectuado,Terminada
+2,salesman.5,Venta,client.38,2,Pago Posterior,Terminada
+2,salesman.4,Prestamo,client.124,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.183,2,Pago ya Efectuado,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.5,Prestamo,client.117,2,Pago Posterior,Terminada
+2,salesman.15,Venta,client.268,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.27,2,Pago Posterior,Anulada
+2,salesman.15,Prestamo,client.316,2,Pago Posterior,Anulada
+2,salesman.15,Prestamo,client.316,2,Pago Posterior,Terminada
+2,salesman.4,Venta,client.27,2,Pago Posterior,Terminada
+2,salesman.4,Prestamo,client.76,2,Pago Posterior,Terminada
+2,salesman.7,Venta,client.317,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.117,2,Pago Posterior,Terminada
+2,salesman.15,Venta,client.41,2,Pago Posterior,Terminada
+2,salesman.14,Prestamo,client.318,2,Pago Posterior,Terminada
+2,salesman.15,Venta,client.41,2,Pago Posterior,Anulada
+2,salesman.4,Venta,client.4,2,Pago Posterior,Terminada
+2,salesman.14,Venta,client.319,2,Pago Posterior,Terminada
+2,salesman.14,Venta,client.242,2,Pago Posterior,Terminada
+2,salesman.4,Prestamo,client.124,2,Pago Posterior,Terminada
+2,salesman.5,Retiro,client.299,2,Pago Contra Entrega,Terminada
+2,salesman.17,Prestamo,client.320,2,Pago Posterior,Terminada
+2,salesman.4,Retiro,client.199,2,Pago Contra Entrega,Terminada
+2,salesman.4,Retiro,client.230,2,Pago Contra Entrega,Terminada
+2,salesman.4,Retiro,client.4,2,Pago Posterior,Terminada
+2,salesman.14,Retiro,client.238,2,Pago Contra Entrega,Terminada
+2,salesman.15,Prestamo,client.321,2,Pago Posterior,Anulada
+2,salesman.17,Venta,client.231,2,Pago Posterior,Terminada
+2,salesman.7,Venta,client.168,2,Pago ya Efectuado,Terminada
+2,salesman.7,Venta,client.3,2,Pago Contra Entrega,Terminada
+2,salesman.7,Retiro,client.299,2,Pago Contra Entrega,Terminada
+2,salesman.7,Venta,client.224,2,Pago Contra Entrega,Terminada
+2,salesman.15,Prestamo,client.44,2,Pago Posterior,Anulada
+2,salesman.15,Venta,client.252,2,Pago Posterior,Terminada
+2,salesman.15,Prestamo,client.322,2,Pago Posterior,Anulada
+2,salesman.15,Venta,client.323,2,Pago Contra Entrega,Terminada
+2,salesman.15,Prestamo,client.322,2,Pago Posterior,Terminada
+2,salesman.15,Prestamo,client.321,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.98,2,Pago Contra Entrega,Terminada
+2,salesman.4,Prestamo,client.76,2,Pago Posterior,Terminada
+2,salesman.17,Prestamo,client.231,2,Pago Posterior,Terminada
+2,salesman.15,Prestamo,client.44,3,Pago Posterior,Terminada
+2,salesman.5,Venta,client.80,3,Pago Posterior,Terminada
+2,salesman.14,Prestamo,client.49,3,Pago Posterior,Terminada
+2,salesman.14,Venta,client.49,3,Pago Posterior,Terminada
+2,salesman.5,Venta,client.117,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.111,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.41,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.12,3,Pago Contra Entrega,Terminada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.94,3,Pago Contra Entrega,Terminada
+3,salesman.5,Soporte,client.183,3,Pago ya Efectuado,Terminada
+3,salesman.7,Retiro,client.94,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.324,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.182,3,Pago ya Efectuado,Terminada
+3,salesman.15,Retiro,client.275,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.30,3,Pago Contra Entrega,Terminada
+3,salesman.7,Venta,client.325,3,Pago ya Efectuado,Terminada
+3,salesman.15,Prestamo,client.326,3,Pago Posterior,Anulada
+3,salesman.17,Retiro,client.231,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.111,3,Pago ya Efectuado,Terminada
+3,salesman.4,Retiro,client.124,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.242,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.242,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.242,3,Pago Posterior,Anulada
+3,salesman.15,Prestamo,client.41,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.316,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.242,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.15,Prestamo,client.326,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.165,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.27,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.327,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.38,3,Pago Posterior,Anulada
+3,salesman.5,Venta,client.38,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.168,3,Pago ya Efectuado,Terminada
+3,salesman.4,Venta,client.86,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.238,3,Pago Contra Entrega,Terminada
+3,salesman.5,Prestamo,client.80,3,Pago Posterior,Terminada
+3,salesman.5,Retiro,client.166,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.188,3,Pago ya Efectuado,Terminada
+3,salesman.7,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.15,Venta,client.242,3,Pago Posterior,Terminada
+3,salesman.7,Soporte,client.3,3,Pago ya Efectuado,Terminada
+3,salesman.17,Venta,client.313,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.252,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.38,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.328,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.305,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.268,3,Pago Contra Entrega,Terminada
+3,salesman.7,Soporte,client.3,3,Pago ya Efectuado,Terminada
+3,salesman.5,Soporte,client.112,3,Pago ya Efectuado,Terminada
+3,salesman.5,Soporte,client.303,3,Pago ya Efectuado,Terminada
+3,salesman.5,Soporte,client.242,3,Pago ya Efectuado,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.183,3,Pago ya Efectuado,Terminada
+3,salesman.5,Venta,client.38,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.38,3,Pago Posterior,Terminada
+3,salesman.16,Prestamo,client.329,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.300,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.230,3,Pago Contra Entrega,Terminada
+3,salesman.7,Venta,client.168,3,Pago Contra Entrega,Anulada
+3,salesman.7,Prestamo,client.168,3,Pago Posterior,Anulada
+3,salesman.5,Venta,client.330,3,Pago ya Efectuado,Terminada
+3,salesman.15,Venta,client.44,3,Pago Contra Entrega,Terminada
+3,salesman.17,Prestamo,client.331,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.168,3,Pago ya Efectuado,Terminada
+3,salesman.5,Venta,client.166,3,Pago Posterior,Terminada
+3,salesman.15,Retiro,client.44,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.332,3,Pago Contra Entrega,Terminada
+3,salesman.4,Prestamo,client.124,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.15,Venta,client.278,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.238,3,Pago Contra Entrega,Terminada
+3,salesman.15,Retiro,client.322,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.168,3,Pago ya Efectuado,Terminada
+3,salesman.5,Prestamo,client.117,3,Pago Posterior,Anulada
+3,salesman.5,Soporte,client.303,3,Pago ya Efectuado,Anulada
+3,salesman.5,Venta,client.117,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.319,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.38,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.272,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.35,3,Pago Contra Entrega,Terminada
+3,salesman.4,Prestamo,client.124,3,Pago Posterior,Anulada
+3,salesman.17,Venta,client.231,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.278,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.205,3,Pago Contra Entrega,Anulada
+3,salesman.5,Retiro,client.243,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.220,3,Pago Contra Entrega,Terminada
+3,salesman.15,Prestamo,client.336,3,Pago Posterior,Terminada
+3,salesman.17,Venta,client.313,3,Pago Contra Entrega,Terminada
+3,salesman.5,Soporte,client.75,3,Pago ya Efectuado,Terminada
+3,salesman.7,Soporte,client.46,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.307,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.41,3,Pago Contra Entrega,Terminada
+3,salesman.4,Retiro,client.199,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Anulada
+3,salesman.5,Venta,client.205,3,Pago Contra Entrega,Terminada
+3,salesman.7,Venta,client.168,3,Pago Contra Entrega,Terminada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.304,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.289,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.117,3,Pago Contra Entrega,Terminada
+3,salesman.7,Retiro,client.275,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.4,Retiro,client.4,3,Pago Posterior,Terminada
+3,salesman.15,Prestamo,client.337,3,Pago Posterior,Terminada
+3,salesman.17,Venta,client.106,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.41,3,Pago Posterior,Terminada
+3,salesman.17,Venta,client.106,3,Pago Posterior,Terminada
+3,salesman.15,Soporte,client.238,3,Pago Posterior,Terminada
+3,salesman.15,Soporte,client.238,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.12,3,Pago Contra Entrega,Anulada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Terminada
+3,salesman.7,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.12,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.205,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.4,3,Pago Posterior,Terminada
+3,salesman.5,Retiro,client.183,3,Pago ya Efectuado,Terminada
+3,salesman.15,Soporte,client.238,3,Pago Posterior,Terminada
+3,salesman.15,Soporte,client.238,3,Pago Posterior,Terminada
+3,salesman.17,Venta,client.338,3,Pago Posterior,Terminada
+3,salesman.15,Soporte,client.278,3,Pago ya Efectuado,Terminada
+3,salesman.5,Retiro,client.318,3,Pago Posterior,Terminada
+3,salesman.17,Prestamo,client.335,3,Pago Posterior,Terminada
+3,salesman.7,Retiro,client.319,3,Pago Contra Entrega,Terminada
+3,salesman.15,Venta,client.278,3,Pago Contra Entrega,Anulada
+3,salesman.15,Venta,client.278,3,Pago Contra Entrega,Terminada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Terminada
+3,salesman.15,Venta,client.278,3,Pago Contra Entrega,Terminada
+3,salesman.15,Venta,client.278,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.111,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.27,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.12,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.12,3,Pago Contra Entrega,Terminada
+3,salesman.5,Soporte,client.38,3,Pago ya Efectuado,Terminada
+3,salesman.15,Venta,client.44,3,Pago Contra Entrega,Terminada
+3,salesman.7,Venta,client.168,3,Pago Contra Entrega,Terminada
+3,salesman.4,Venta,client.156,3,Pago Posterior,Terminada
+3,salesman.5,Prestamo,client.339,3,Pago Posterior,Anulada
+3,salesman.15,Venta,client.323,3,Pago Contra Entrega,Terminada
+4,salesman.4,Retiro,client.272,4,Pago ya Efectuado,Terminada
+4,salesman.4,Soporte,client.135,4,Pago ya Efectuado,Terminada
+4,salesman.15,Venta,client.157,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.157,4,Pago Posterior,Anulada
+4,salesman.5,Soporte,client.132,4,Pago Posterior,Terminada
+4,salesman.7,Soporte,client.3,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.45,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.193,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.168,4,Pago Contra Entrega,Terminada
+4,salesman.7,Soporte,client.3,4,Pago ya Efectuado,Terminada
+4,salesman.4,Prestamo,client.113,4,Pago Contra Entrega,Terminada
+4,salesman.7,Venta,client.340,4,Pago Contra Entrega,Terminada
+4,salesman.4,Soporte,client.4,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.199,4,Pago Contra Entrega,Terminada
+4,salesman.17,Venta,client.231,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.324,4,Pago Contra Entrega,Terminada
+4,salesman.7,Venta,client.182,4,Pago Contra Entrega,Terminada
+4,salesman.7,Venta,client.168,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.341,4,Pago ya Efectuado,Terminada
+4,salesman.17,Prestamo,client.83,4,Pago Posterior,Terminada
+4,salesman.5,Retiro,client.183,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.183,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.111,4,Pago Contra Entrega,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.22,Prestamo,client.342,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.187,4,Pago Posterior,Anulada
+4,salesman.7,Retiro,client.80,4,Pago Contra Entrega,Terminada
+4,salesman.15,Venta,client.41,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.343,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.315,4,Pago Contra Entrega,Terminada
+4,salesman.4,Soporte,client.86,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.168,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.115,4,Pago Contra Entrega,Terminada
+4,salesman.4,Soporte,client.156,4,Pago Posterior,Terminada
+4,salesman.4,Prestamo,client.18,4,Pago Posterior,Terminada
+4,salesman.22,Prestamo,client.345,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.30,4,Pago Contra Entrega,Terminada
+4,salesman.17,Prestamo,client.346,4,Pago Posterior,Terminada
+4,salesman.5,Prestamo,client.117,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.30,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.231,4,Pago Posterior,Terminada
+4,salesman.16,Venta,client.219,4,Pago Contra Entrega,Terminada
+4,salesman.7,Venta,client.283,4,Pago Posterior,Terminada
+4,salesman.5,Prestamo,client.117,4,Pago Posterior,Terminada
+4,salesman.17,Prestamo,client.347,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.3,4,Pago Contra Entrega,Terminada
+4,salesman.5,Prestamo,client.117,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.117,4,Pago Contra Entrega,Terminada
+4,salesman.5,Soporte,client.183,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.168,4,Pago Contra Entrega,Terminada
+4,salesman.7,Retiro,client.38,4,Pago Contra Entrega,Terminada
+4,salesman.7,Retiro,client.252,4,Pago Contra Entrega,Terminada
+4,salesman.22,Prestamo,client.348,4,Pago Posterior,Terminada
+4,salesman.22,Prestamo,client.349,4,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.41,4,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.350,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Anulada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.17,Prestamo,client.351,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.117,4,Pago Posterior,Terminada
+4,salesman.15,Soporte,client.268,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.277,4,Pago Posterior,Terminada
+4,salesman.16,Soporte,client.168,4,Pago Contra Entrega,Terminada
+4,salesman.5,Venta,client.117,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.283,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.38,4,Pago Contra Entrega,Terminada
+4,salesman.15,Venta,client.330,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.182,4,Pago Contra Entrega,Terminada
+4,salesman.7,Venta,client.90,4,Pago Contra Entrega,Terminada
+4,salesman.7,Soporte,client.90,4,Pago ya Efectuado,Terminada
+4,salesman.15,Retiro,client.336,4,Pago Posterior,Terminada
+4,salesman.15,Retiro,client.321,4,Pago Posterior,Terminada
+4,salesman.7,Soporte,client.3,4,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.3,4,Pago Contra Entrega,Terminada
+4,salesman.4,Venta,client.27,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.252,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.222,4,Pago Posterior,Terminada
+4,salesman.4,Retiro,client.32,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.187,4,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.288,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.242,4,Pago Posterior,Anulada
+4,salesman.22,Prestamo,client.352,4,Pago Posterior,Anulada
+4,salesman.16,Venta,client.309,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.231,4,Pago Contra Entrega,Terminada
+4,salesman.7,Retiro,client.327,4,Pago Contra Entrega,Terminada
+4,salesman.15,Venta,client.337,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.27,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.111,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.288,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.232,4,Pago Posterior,Terminada
+4,salesman.17,Retiro,client.320,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.15,Venta,client.252,4,Pago Posterior,Terminada
+4,salesman.7,Retiro,client.199,4,Pago Contra Entrega,Terminada
+4,salesman.7,Retiro,client.86,4,Pago Contra Entrega,Terminada
+4,salesman.5,Venta,client.117,4,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.353,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.230,4,Pago Posterior,Anulada
+4,salesman.15,Prestamo,client.354,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.230,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.181,4,Pago Posterior,Terminada
+4,salesman.7,Venta,client.355,4,Pago Contra Entrega,Terminada
+4,salesman.4,Venta,client.4,4,Pago Posterior,Terminada
+4,salesman.17,Retiro,client.346,4,Pago Posterior,Terminada
+4,salesman.4,Venta,client.27,4,Pago Posterior,Terminada
+4,salesman.17,Prestamo,client.356,5,Pago Posterior,Terminada
+4,salesman.7,Venta,client.357,4,Pago ya Efectuado,Terminada
+4,salesman.7,Retiro,client.334,4,Pago Contra Entrega,Terminada
+4,salesman.7,Retiro,client.86,4,Pago Contra Entrega,Terminada
+4,salesman.5,Prestamo,client.85,4,Pago Posterior,Terminada
+4,salesman.5,Retiro,client.277,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.30,4,Pago Posterior,Terminada
+4,salesman.17,Venta,client.230,5,Pago Posterior,Terminada
+4,salesman.7,Venta,client.182,5,Pago Contra Entrega,Terminada
+4,salesman.16,Venta,client.168,5,Pago Posterior,Terminada
+4,salesman.7,Soporte,client.3,5,Pago ya Efectuado,Terminada
+4,salesman.5,Venta,client.358,5,Pago Posterior,Terminada
+4,salesman.5,Arriendo,client.277,5,Pago Posterior,Terminada
+4,salesman.4,Retiro,client.4,5,Pago Posterior,Terminada
+4,salesman.15,Venta,client.321,5,Pago Posterior,Terminada
+4,salesman.17,Prestamo,client.30,5,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.288,5,Pago Posterior,Terminada
+4,salesman.15,Prestamo,client.354,5,Pago Posterior,Anulada
+4,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+4,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+4,salesman.7,Soporte,client.3,5,Pago ya Efectuado,Terminada
+4,salesman.7,Venta,client.359,5,Pago ya Efectuado,Terminada
+5,salesman.16,Venta,client.168,5,Pago Contra Entrega,Terminada
+5,salesman.4,Soporte,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.327,5,Pago Posterior,Terminada
+5,salesman.15,Prestamo,client.360,5,Pago Posterior,Terminada
+5,salesman.7,Arriendo,client.309,5,Pago ya Efectuado,Terminada
+5,salesman.7,Arriendo,client.94,5,Pago Posterior,Terminada
+5,salesman.7,Arriendo,client.37,5,Pago ya Efectuado,Terminada
+5,salesman.7,Venta,client.283,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.106,5,Pago Posterior,Anulada
+5,salesman.17,Venta,client.231,5,Pago Posterior,Anulada
+5,salesman.17,Prestamo,client.124,5,Pago Posterior,Anulada
+5,salesman.4,Venta,client.230,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.80,5,Pago Posterior,Terminada
+5,salesman.17,Prestamo,client.124,5,Pago Posterior,Terminada
+5,salesman.15,Prestamo,client.350,5,Pago Posterior,Anulada
+5,salesman.15,Prestamo,client.350,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.321,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.231,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.106,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.288,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.3,5,Pago Contra Entrega,Terminada
+5,salesman.17,Venta,client.156,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.361,5,Pago Contra Entrega,Terminada
+5,salesman.15,Prestamo,client.360,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.117,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.49,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.183,5,Pago ya Efectuado,Terminada
+5,salesman.5,Venta,client.101,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.354,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.231,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.94,5,Pago Posterior,Terminada
+5,salesman.17,Prestamo,client.335,5,Pago Posterior,Terminada
+5,salesman.7,Retiro,client.106,5,Pago Contra Entrega,Terminada
+5,salesman.7,Soporte,client.168,5,Pago ya Efectuado,Terminada
+5,salesman.7,Soporte,client.3,5,Pago ya Efectuado,Terminada
+5,salesman.4,Venta,client.230,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.90,5,Pago Contra Entrega,Terminada
+5,salesman.5,Venta,client.38,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.3,5,Pago Contra Entrega,Terminada
+5,salesman.5,Prestamo,client.236,5,Pago Posterior,Anulada
+5,salesman.5,Venta,client.154,5,Pago Posterior,Terminada
+5,salesman.5,Prestamo,client.236,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.117,5,Pago Posterior,Terminada
+5,salesman.15,Retiro,client.288,5,Pago Posterior,Terminada
+5,salesman.15,Retiro,client.288,5,Pago Posterior,Anulada
+5,salesman.7,Retiro,client.166,5,Pago Contra Entrega,Terminada
+5,salesman.5,Soporte,client.277,5,Pago ya Efectuado,Terminada
+5,salesman.5,Prestamo,client.284,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.187,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.187,5,Pago Posterior,Anulada
+5,salesman.5,Venta,client.187,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.3,5,Pago Contra Entrega,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.27,5,Pago Posterior,Terminada
+5,salesman.17,Prestamo,client.335,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.277,5,Pago ya Efectuado,Terminada
+5,salesman.7,Venta,client.317,5,Pago ya Efectuado,Terminada
+5,salesman.15,Venta,client.242,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.242,5,Pago Posterior,Terminada
+5,salesman.17,Retiro,client.335,5,Pago Posterior,Terminada
+5,salesman.7,Retiro,client.41,5,Pago Contra Entrega,Terminada
+5,salesman.15,Retiro,client.41,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.330,5,Pago ya Efectuado,Terminada
+5,salesman.7,Venta,client.3,5,Pago ya Efectuado,Terminada
+5,salesman.7,Retiro,client.30,5,Pago Contra Entrega,Terminada
+5,salesman.5,Venta,client.38,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.83,5,Pago Posterior,Terminada
+5,salesman.15,Retiro,client.354,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.362,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.242,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.363,5,Pago Contra Entrega,Terminada
+5,salesman.15,Venta,client.353,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.41,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.15,Soporte,client.337,5,Pago Posterior,Terminada
+5,salesman.17,Venta,client.30,5,Pago Posterior,Terminada
+5,salesman.17,Soporte,client.30,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.94,5,Pago ya Efectuado,Terminada
+5,salesman.15,Venta,client.323,5,Pago Contra Entrega,Terminada
+5,salesman.4,Venta,client.235,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.3,5,,
+5,salesman.7,Venta,client.3,5,Pago Contra Entrega,Terminada
+5,salesman.7,Venta,client.283,5,Pago Posterior,Terminada
+5,salesman.7,Retiro,client.117,5,Pago Contra Entrega,Terminada
+5,salesman.7,Retiro,client.38,5,Pago Contra Entrega,Terminada
+5,salesman.17,Prestamo,client.364,5,Pago Posterior,Terminada
+5,salesman.17,Retiro,client.347,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.3,5,Pago Contra Entrega,Terminada
+5,salesman.7,Venta,client.168,5,Pago ya Efectuado,Terminada
+5,salesman.4,Prestamo,client.32,5,Pago Posterior,Terminada
+5,salesman.7,Soporte,client.3,5,Pago ya Efectuado,Terminada
+5,salesman.7,Venta,client.325,5,Pago Contra Entrega,Terminada
+5,salesman.15,Venta,client.323,5,Pago Contra Entrega,Anulada
+5,salesman.5,Venta,client.117,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.323,5,Pago Contra Entrega,Anulada
+5,salesman.15,Venta,client.323,5,Pago Contra Entrega,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.289,5,Pago Posterior,Anulada
+5,salesman.5,Venta,client.289,5,Pago Posterior,Anulada
+5,salesman.7,Venta,client.283,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.289,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago ya Efectuado,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Venta,client.4,5,Pago Posterior,Terminada
+5,salesman.4,Prestamo,client.156,5,Pago Posterior,Terminada
+5,salesman.7,Venta,client.45,5,Pago ya Efectuado,Terminada
+5,salesman.15,Venta,client.222,5,Pago Posterior,Anulada
+5,salesman.15,Venta,client.222,5,Pago Posterior,Terminada
+5,salesman.16,Prestamo,client.156,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.78,5,Pago Posterior,Terminada
+5,salesman.15,Venta,client.330,5,Pago Posterior,Terminada
+5,salesman.5,Arriendo,client.277,6,Pago Posterior,Terminada
+5,salesman.5,Retiro,client.183,6,Pago ya Efectuado,Terminada
+5,salesman.7,Arriendo,client.94,6,Pago Posterior,Terminada
+5,salesman.16,Arriendo,client.309,6,Pago Posterior,Terminada
+5,salesman.16,Arriendo,client.309,6,Pago Posterior,Terminada
+5,salesman.5,Venta,client.75,6,Pago Posterior,Terminada
+5,salesman.7,Retiro,client.265,6,Pago Contra Entrega,Terminada
+5,salesman.7,Venta,client.182,6,Pago Contra Entrega,Terminada
+5,salesman.5,Venta,client.40,6,Pago Contra Entrega,Terminada
+5,salesman.15,Venta,client.354,6,Pago Posterior,Terminada
+5,salesman.15,Venta,client.288,6,Pago Posterior,Terminada
+5,salesman.15,Venta,client.337,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.38,6,Pago Posterior,Anulada
+6,salesman.7,Arriendo,client.94,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.183,6,Pago ya Efectuado,Terminada
+6,salesman.15,Venta,client.275,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago ya Efectuado,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.106,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.231,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.231,6,Pago Posterior,Anulada
+6,salesman.5,Venta,client.284,6,Pago Posterior,Anulada
+6,salesman.7,Retiro,client.235,6,Pago Contra Entrega,Terminada
+6,salesman.4,Venta,client.27,6,Pago Posterior,Terminada
+6,salesman.7,Venta,client.285,6,Pago Contra Entrega,Terminada
+6,salesman.15,Venta,client.367,6,Pago Contra Entrega,Terminada
+6,salesman.7,Soporte,client.3,6,Pago ya Efectuado,Terminada
+6,salesman.15,Retiro,client.350,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.242,6,Pago Posterior,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.15,Retiro,client.252,6,Pago Contra Entrega,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.117,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.230,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.367,6,Pago Contra Entrega,Terminada
+6,salesman.15,Venta,client.354,6,Pago Posterior,Terminada
+6,salesman.16,Venta,client.168,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.93,6,Pago Contra Entrega,Anulada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.319,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.16,Arriendo,client.37,6,Pago Posterior,Terminada
+6,salesman.7,Venta,client.93,6,Pago Contra Entrega,Anulada
+6,salesman.7,Venta,client.93,6,Pago ya Efectuado,Terminada
+6,salesman.15,Soporte,client.337,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.304,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.77,6,Pago ya Efectuado,Terminada
+6,salesman.5,Soporte,client.183,6,Pago ya Efectuado,Terminada
+6,salesman.15,Retiro,client.360,6,Pago Posterior,Terminada
+6,salesman.4,Soporte,client.27,6,Pago Posterior,Terminada
+6,salesman.4,Soporte,client.30,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.188,6,Pago ya Efectuado,Terminada
+6,salesman.7,Venta,client.168,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.5,Prestamo,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.284,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Anulada
+6,salesman.15,Venta,client.242,6,Pago Posterior,Terminada
+6,salesman.7,Soporte,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.106,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.94,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.181,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.111,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.45,6,Pago ya Efectuado,Terminada
+6,salesman.5,Venta,client.85,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.230,6,Pago Posterior,Terminada
+6,salesman.7,Venta,client.168,6,Pago ya Efectuado,Terminada
+6,salesman.5,Venta,client.200,6,Pago Contra Entrega,Terminada
+6,salesman.7,Prestamo,client.156,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.210,6,Pago Posterior,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.5,Retiro,client.188,6,Pago ya Efectuado,Terminada
+6,salesman.7,Arriendo,client.309,6,Pago Posterior,Terminada
+6,salesman.7,Arriendo,client.309,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.210,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.183,6,Pago ya Efectuado,Terminada
+6,salesman.4,Soporte,client.4,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.369,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.85,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.230,6,Pago Contra Entrega,Terminada
+6,salesman.5,Venta,client.284,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.222,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.80,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.4,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.3,6,Pago Contra Entrega,Terminada
+6,salesman.5,Soporte,client.303,6,Pago ya Efectuado,Terminada
+6,salesman.15,Retiro,client.350,6,Pago Posterior,Anulada
+6,salesman.15,Retiro,client.350,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.242,6,Pago Posterior,Anulada
+6,salesman.5,Prestamo,client.284,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.354,6,Pago Contra Entrega,Terminada
+6,salesman.15,Venta,client.41,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.41,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.235,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.371,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.242,6,Pago Posterior,Terminada
+6,salesman.15,Prestamo,client.371,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.372,6,Pago Contra Entrega,Terminada
+6,salesman.16,Venta,client.37,6,Pago Contra Entrega,Terminada
+6,salesman.16,Arriendo,client.94,6,Pago Posterior,Terminada
+6,salesman.16,Arriendo,client.94,6,Pago Posterior,Terminada
+6,salesman.16,Arriendo,client.309,6,Pago Posterior,Terminada
+6,salesman.16,Arriendo,client.309,6,Pago Posterior,Terminada
+6,salesman.16,Arriendo,client.309,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.205,6,Pago Contra Entrega,Terminada
+6,salesman.5,Arriendo,client.277,6,Pago Posterior,Terminada
+6,salesman.16,Arriendo,client.37,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.80,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.372,6,Pago Contra Entrega,Terminada
+6,salesman.16,Venta,client.168,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.358,6,Pago Contra Entrega,Terminada
+6,salesman.7,Venta,client.193,6,Pago ya Efectuado,Terminada
+6,salesman.7,Soporte,client.3,6,Pago ya Efectuado,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Anulada
+6,salesman.5,Prestamo,client.117,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.188,6,Pago ya Efectuado,Anulada
+6,salesman.5,Soporte,client.188,6,Pago ya Efectuado,Terminada
+6,salesman.7,Retiro,client.353,6,Pago Contra Entrega,Terminada
+6,salesman.7,Retiro,client.41,6,Pago Contra Entrega,Terminada
+6,salesman.4,Venta,client.30,6,Pago Posterior,Terminada
+6,salesman.4,Soporte,client.27,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.373,6,Pago Posterior,Terminada
+6,salesman.4,Soporte,client.77,6,Pago Posterior,Terminada
+6,salesman.5,Retiro,client.284,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.117,6,Pago Contra Entrega,Terminada
+6,salesman.15,Venta,client.275,6,Pago Posterior,Terminada
+6,salesman.7,Retiro,client.362,6,Pago Contra Entrega,Terminada
+6,salesman.5,Venta,client.236,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.117,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.4,6,Pago Posterior,Terminada
+6,salesman.15,Prestamo,client.353,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.231,6,Pago Posterior,Terminada
+6,salesman.4,Venta,client.232,6,Pago Posterior,Terminada
+6,salesman.15,Venta,client.44,6,Pago Contra Entrega,Terminada
+7,salesman.4,Soporte,client.135,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.366,7,Pago ya Efectuado,Terminada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Terminada
+7,salesman.15,Soporte,client.242,7,Pago Posterior,Terminada
+7,salesman.7,Retiro,client.38,7,Pago Contra Entrega,Terminada
+7,salesman.5,Prestamo,client.85,7,Pago Posterior,Terminada
+7,salesman.5,Prestamo,client.111,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.30,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.117,7,Pago ya Efectuado,Terminada
+7,salesman.15,Venta,client.370,7,Pago Posterior,Terminada
+7,salesman.4,Soporte,client.4,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.367,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Terminada
+7,salesman.15,Soporte,client.238,7,Pago Posterior,Anulada
+7,salesman.4,Arriendo,client.246,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.374,7,Pago Posterior,Terminada
+7,salesman.5,Retiro,client.183,7,Pago ya Efectuado,Terminada
+7,salesman.7,Retiro,client.220,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.6,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.242,7,Pago Posterior,Anulada
+7,salesman.15,Venta,client.242,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.3,7,Pago Contra Entrega,Terminada
+7,salesman.7,Retiro,client.367,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.375,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.375,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.78,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.78,7,Pago Posterior,Terminada
+7,salesman.5,Prestamo,client.369,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.168,7,Pago Contra Entrega,Terminada
+7,salesman.7,Retiro,client.200,7,Pago Contra Entrega,Terminada
+7,salesman.15,Venta,client.350,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.378,7,Pago ya Efectuado,Terminada
+7,salesman.7,Retiro,client.235,7,Pago Contra Entrega,Terminada
+7,salesman.4,Venta,client.210,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.379,7,Pago Contra Entrega,Anulada
+7,salesman.7,Venta,client.379,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.188,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.30,7,Pago Posterior,Terminada
+7,salesman.15,Prestamo,client.339,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.235,7,Pago Posterior,Terminada
+7,salesman.7,Soporte,client.3,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.360,7,Pago Posterior,Terminada
+7,salesman.15,Prestamo,client.380,7,Pago Posterior,Terminada
+7,salesman.15,Prestamo,client.381,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.182,7,Pago Contra Entrega,Terminada
+7,salesman.4,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.3,7,Pago Contra Entrega,Terminada
+7,salesman.4,Venta,client.382,7,Pago Posterior,Terminada
+7,salesman.4,Retiro,client.364,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.284,7,Pago ya Efectuado,Terminada
+7,salesman.5,Venta,client.211,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.38,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.335,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.38,7,Pago Posterior,Anulada
+7,salesman.7,Venta,client.384,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.38,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.370,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.275,7,Pago ya Efectuado,Terminada
+7,salesman.7,Prestamo,client.385,7,Pago Posterior,Terminada
+7,salesman.7,Prestamo,client.3,7,Pago Posterior,Anulada
+7,salesman.7,Prestamo,client.3,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.235,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.215,7,Pago Posterior,Terminada
+7,salesman.5,Retiro,client.236,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.386,7,Pago ya Efectuado,Terminada
+7,salesman.7,Venta,client.168,7,Pago ya Efectuado,Terminada
+7,salesman.15,Soporte,client.367,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.22,7,Pago Posterior,Anulada
+7,salesman.15,Venta,client.242,7,Pago Posterior,Terminada
+7,salesman.4,Prestamo,client.235,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.236,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.125,7,Pago Posterior,Anulada
+7,salesman.4,Venta,client.30,7,Pago Posterior,Terminada
+7,salesman.5,Prestamo,client.78,7,Pago Posterior,Terminada
+7,salesman.4,Venta,client.22,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.220,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.367,7,Pago Contra Entrega,Terminada
+7,salesman.15,Venta,client.44,7,Pago Contra Entrega,Terminada
+7,salesman.7,Venta,client.387,7,Pago Contra Entrega,Terminada
+7,salesman.4,Venta,client.116,7,Pago Posterior,Terminada
+7,salesman.15,Soporte,client.242,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.3,7,Pago Contra Entrega,Terminada
+7,salesman.4,Prestamo,client.388,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.38,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.125,7,Pago Posterior,Terminada
+7,salesman.7,Retiro,client.94,7,Pago Contra Entrega,Terminada
+7,salesman.5,Soporte,client.111,7,Pago ya Efectuado,Terminada
+7,salesman.7,Retiro,client.222,7,Pago Contra Entrega,Terminada
+7,salesman.5,Arriendo,client.277,7,Pago Posterior,Terminada
+7,salesman.7,Arriendo,client.94,7,Pago Posterior,Terminada
+7,salesman.7,Arriendo,client.94,7,Pago Posterior,Terminada
+7,salesman.7,Arriendo,client.309,7,Pago Posterior,Terminada
+7,salesman.7,Arriendo,client.309,7,Pago Posterior,Terminada
+7,salesman.7,Arriendo,client.309,7,Pago Posterior,Terminada
+7,salesman.7,Venta,client.387,7,Pago Contra Entrega,Terminada
+7,salesman.7,Arriendo,client.37,7,Pago Posterior,Terminada
+7,salesman.15,Venta,client.397,7,Pago Posterior,Terminada
+7,salesman.5,Arriendo,client.277,7,Pago ya Efectuado,Terminada
+7,salesman.4,Prestamo,client.156,7,Pago Posterior,Terminada
+7,salesman.15,Prestamo,client.389,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.78,7,Pago Posterior,Terminada
+7,salesman.7,Retiro,client.230,8,Pago Contra Entrega,Terminada
+7,salesman.15,Soporte,client.380,8,Pago Posterior,Terminada
+7,salesman.5,Venta,client.84,8,Pago Posterior,Terminada
+7,salesman.5,Retiro,client.369,8,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.183,8,Pago ya Efectuado,Terminada
+7,salesman.5,Soporte,client.183,8,Pago ya Efectuado,Terminada
+7,salesman.5,Soporte,client.252,8,Pago ya Efectuado,Terminada
+7,salesman.5,Soporte,client.188,8,Pago ya Efectuado,Terminada
+7,salesman.15,Venta,client.41,8,Pago Posterior,Terminada
+8,salesman.15,Venta,client.323,8,Pago Posterior,Terminada
+8,salesman.25,Prestamo,client.390,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.371,8,Pago Contra Entrega,Terminada
+8,salesman.7,Retiro,client.80,8,Pago Contra Entrega,Terminada
+8,salesman.15,Prestamo,client.391,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.188,8,Pago Contra Entrega,Terminada
+8,salesman.5,Venta,client.310,8,Pago Contra Entrega,Terminada
+8,salesman.15,Venta,client.44,8,Pago Contra Entrega,Terminada
+8,salesman.5,Soporte,client.183,8,Pago ya Efectuado,Terminada
+8,salesman.5,Venta,client.78,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.168,8,Pago ya Efectuado,Terminada
+8,salesman.5,Venta,client.15,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.63,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.279,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.279,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.383,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.383,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.383,8,Pago Posterior,Terminada
+8,salesman.5,Prestamo,client.127,8,Pago Posterior,Terminada
+8,salesman.5,Soporte,client.284,8,Pago ya Efectuado,Terminada
+8,salesman.7,Venta,client.355,8,Pago ya Efectuado,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Retiro,client.289,8,Pago Contra Entrega,Terminada
+8,salesman.7,Retiro,client.117,8,Pago Contra Entrega,Terminada
+8,salesman.15,Venta,client.367,8,Pago Contra Entrega,Anulada
+8,salesman.7,Retiro,client.323,8,Pago Contra Entrega,Terminada
+8,salesman.15,Prestamo,client.392,8,Pago Posterior,Terminada
+8,salesman.15,Prestamo,client.392,8,Pago Posterior,Anulada
+8,salesman.5,Venta,client.38,8,Pago Posterior,Terminada
+8,salesman.5,Prestamo,client.85,8,Pago Posterior,Terminada
+8,salesman.5,Retiro,client.78,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.182,8,Pago Contra Entrega,Terminada
+8,salesman.4,Venta,client.30,8,Pago Contra Entrega,Terminada
+8,salesman.15,Soporte,client.323,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.41,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Prestamo,client.3,8,Pago Posterior,Terminada
+8,salesman.16,Retiro,client.199,8,Pago ya Efectuado,Anulada
+8,salesman.4,Prestamo,client.382,8,Pago Posterior,Terminada
+8,salesman.15,Venta,client.304,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.370,8,Pago Contra Entrega,Terminada
+8,salesman.15,Retiro,client.380,8,Pago Posterior,Terminada
+8,salesman.4,Venta,client.331,8,Pago Posterior,Terminada
+8,salesman.7,Prestamo,client.3,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.111,8,Pago Posterior,Terminada
+8,salesman.7,Prestamo,client.393,8,Pago Posterior,Terminada
+8,salesman.7,Prestamo,client.387,8,Pago Posterior,Anulada
+8,salesman.7,Prestamo,client.393,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Prestamo,client.394,8,Pago Posterior,Terminada
+8,salesman.5,Soporte,client.188,8,Pago ya Efectuado,Terminada
+8,salesman.15,Venta,client.328,8,Pago Posterior,Terminada
+8,salesman.15,Retiro,client.339,8,Pago Posterior,Terminada
+8,salesman.5,Soporte,client.183,8,Pago ya Efectuado,Terminada
+8,salesman.5,Soporte,client.38,8,Pago ya Efectuado,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Prestamo,client.394,8,Pago Posterior,Terminada
+8,salesman.7,Prestamo,client.393,8,Pago Posterior,Terminada
+8,salesman.4,Venta,client.395,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.182,8,Pago Contra Entrega,Terminada
+8,salesman.28,Prestamo,client.168,8,Pago Posterior,Terminada
+8,salesman.15,Soporte,client.304,8,Pago Posterior,Terminada
+8,salesman.15,Soporte,client.304,8,Pago Posterior,Terminada
+8,salesman.15,Venta,client.170,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.78,8,Pago Posterior,Terminada
+8,salesman.15,Venta,client.252,8,Pago Posterior,Terminada
+8,salesman.4,Prestamo,client.156,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.90,8,Pago Contra Entrega,Terminada
+8,salesman.15,Prestamo,client.257,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.235,8,Pago Contra Entrega,Terminada
+8,salesman.7,Retiro,client.275,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.379,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.394,8,Pago Contra Entrega,Terminada
+8,salesman.15,Soporte,client.242,8,Pago Posterior,Terminada
+8,salesman.5,Prestamo,client.310,8,Pago ya Efectuado,Terminada
+8,salesman.7,Venta,client.168,8,Pago ya Efectuado,Terminada
+8,salesman.4,Venta,client.4,8,Pago Posterior,Terminada
+8,salesman.27,Venta,client.30,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.396,8,Pago Contra Entrega,Terminada
+8,salesman.5,Venta,client.319,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.251,8,Pago ya Efectuado,Terminada
+8,salesman.15,Prestamo,client.398,8,Pago Posterior,Terminada
+8,salesman.28,Venta,client.399,8,Pago Posterior,Terminada
+8,salesman.28,Venta,client.399,8,Pago Posterior,Terminada
+8,salesman.27,Venta,client.232,8,Pago Posterior,Terminada
+8,salesman.27,Venta,client.231,8,Pago Posterior,Terminada
+8,salesman.15,Soporte,client.360,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.4,8,Pago Contra Entrega,Terminada
+8,salesman.27,Venta,client.30,8,Pago Contra Entrega,Terminada
+8,salesman.27,Soporte,client.30,8,Pago ya Efectuado,Terminada
+8,salesman.27,Soporte,client.30,8,Pago ya Efectuado,Terminada
+8,salesman.15,Venta,client.275,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.211,8,Pago Contra Entrega,Terminada
+8,salesman.4,Venta,client.4,8,Pago Posterior,Anulada
+8,salesman.4,Venta,client.4,8,Pago Posterior,Terminada
+8,salesman.7,Arriendo,client.94,8,Pago Posterior,Terminada
+8,salesman.7,Arriendo,client.309,8,Pago Posterior,Terminada
+8,salesman.4,Venta,client.4,8,Pago Posterior,Terminada
+8,salesman.15,Retiro,client.371,8,Pago Posterior,Terminada
+8,salesman.28,Venta,client.399,8,Pago Posterior,Terminada
+8,salesman.28,Venta,client.399,8,Pago Posterior,Terminada
+8,salesman.15,Retiro,client.381,8,Pago Posterior,Terminada
+8,salesman.15,Venta,client.389,8,Pago Posterior,Terminada
+8,salesman.5,Arriendo,client.277,8,Pago Posterior,Terminada
+8,salesman.7,Retiro,client.350,8,Pago Contra Entrega,Terminada
+8,salesman.15,Prestamo,client.400,8,Pago Posterior,Terminada
+8,salesman.15,Prestamo,client.400,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.3,8,Pago Contra Entrega,Terminada
+8,salesman.16,Venta,client.168,8,Pago Contra Entrega,Terminada
+8,salesman.7,Venta,client.402,8,Pago Contra Entrega,Terminada
+8,salesman.7,Retiro,client.38,8,Pago Contra Entrega,Terminada
+8,salesman.5,Retiro,client.183,8,Pago ya Efectuado,Terminada
+8,salesman.5,Soporte,client.183,8,Pago ya Efectuado,Terminada
+8,salesman.7,Venta,client.404,8,Pago ya Efectuado,Terminada
+8,salesman.27,Venta,client.210,8,Pago Posterior,Terminada
+8,salesman.25,Prestamo,client.401,8,Pago Posterior,Terminada
+8,salesman.7,Venta,client.404,9,Pago Contra Entrega,Terminada
+8,salesman.5,Prestamo,client.127,9,Pago Posterior,Terminada
+9,salesman.5,Soporte,client.188,9,Pago ya Efectuado,Terminada
+9,salesman.7,Venta,client.402,9,Pago Contra Entrega,Terminada
+9,salesman.25,Prestamo,client.407,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.117,9,Pago Posterior,Terminada
+9,salesman.25,Prestamo,client.405,9,Pago Posterior,Terminada
+9,salesman.25,Arriendo,client.405,9,Pago Posterior,Anulada
+9,salesman.5,Venta,client.117,9,Pago Posterior,Anulada
+9,salesman.5,Venta,client.117,9,Pago Posterior,Terminada
+9,salesman.15,Soporte,client.41,9,Pago Posterior,Anulada
+9,salesman.25,Prestamo,client.406,9,Pago Posterior,Terminada
+9,salesman.5,Soporte,client.408,9,Pago ya Efectuado,Terminada
+9,salesman.15,Venta,client.41,9,Pago Posterior,Terminada
+9,salesman.4,Venta,client.27,9,Pago Posterior,Terminada
+9,salesman.25,Prestamo,client.409,9,Pago Posterior,Terminada
+9,salesman.25,Venta,client.160,9,Pago Posterior,Anulada
+9,salesman.25,Venta,client.160,9,Pago Contra Entrega,Terminada
+9,salesman.15,Venta,client.371,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.30,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.84,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.188,9,Pago Posterior,Terminada
+9,salesman.4,Venta,client.4,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.236,9,Pago Posterior,Terminada
+9,salesman.15,Prestamo,client.410,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.232,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.210,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.411,9,Pago Contra Entrega,Terminada
+9,salesman.27,Venta,client.30,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.30,9,Pago Posterior,Terminada
+9,salesman.5,Prestamo,client.162,9,Pago Posterior,Anulada
+9,salesman.25,Venta,client.390,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.44,9,Pago Posterior,Terminada
+9,salesman.15,Soporte,client.268,9,Pago Posterior,Anulada
+9,salesman.7,Venta,client.3,9,Pago Contra Entrega,Terminada
+9,salesman.27,Venta,client.210,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.319,9,Pago Posterior,Terminada
+9,salesman.5,Prestamo,client.162,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.38,9,Pago Posterior,Anulada
+9,salesman.5,Venta,client.38,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.411,9,Pago Posterior,Terminada
+9,salesman.5,Prestamo,client.38,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.367,9,Pago Posterior,Terminada
+9,salesman.27,Retiro,client.30,9,Pago Posterior,Terminada
+9,salesman.25,Venta,client.412,9,Pago Posterior,Terminada
+9,salesman.28,Venta,client.413,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.414,9,Pago Posterior,Terminada
+9,salesman.4,Venta,client.4,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.41,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.371,9,Pago Posterior,Terminada
+9,salesman.4,Retiro,client.335,9,Pago Posterior,Terminada
+9,salesman.27,Prestamo,client.416,9,Pago Posterior,Terminada
+9,salesman.29,Prestamo,client.415,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.154,9,Pago Posterior,Terminada
+9,salesman.5,Retiro,client.418,9,Pago Contra Entrega,Terminada
+9,salesman.25,Retiro,client.406,9,Pago Posterior,Terminada
+9,salesman.7,Retiro,client.413,9,Pago Contra Entrega,Terminada
+9,salesman.15,Soporte,client.278,9,Pago Posterior,Terminada
+9,salesman.5,Soporte,client.183,9,Pago ya Efectuado,Terminada
+9,salesman.7,Venta,client.419,9,Pago ya Efectuado,Terminada
+9,salesman.5,Retiro,client.319,9,Pago Contra Entrega,Terminada
+9,salesman.5,Venta,client.150,9,Pago Contra Entrega,Terminada
+9,salesman.15,Soporte,client.278,9,Pago Posterior,Anulada
+9,salesman.7,Arriendo,client.309,9,Pago Posterior,Terminada
+9,salesman.7,Arriendo,client.94,9,Pago Posterior,Terminada
+9,salesman.27,Venta,client.30,9,Pago Posterior,Terminada
+9,salesman.4,Venta,client.27,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.117,9,Pago Posterior,Terminada
+9,salesman.5,Venta,client.79,9,Pago Contra Entrega,Terminada
+9,salesman.5,Arriendo,client.277,9,Pago Posterior,Terminada
+9,salesman.15,Retiro,client.392,9,Pago Posterior,Terminada
+9,salesman.7,Retiro,client.116,9,Pago Contra Entrega,Terminada
+9,salesman.7,Retiro,client.111,9,Pago Contra Entrega,Terminada
+9,salesman.7,Retiro,client.397,9,Pago Contra Entrega,Terminada
+9,salesman.15,Prestamo,client.360,9,Pago Posterior,Terminada
+9,salesman.15,Venta,client.49,9,Pago Posterior,Anulada
+9,salesman.15,Venta,client.49,9,Pago Posterior,Terminada
+1,salesman.5,Soporte,client.284,1,Pago Posterior,Terminada
+1,salesman.5,Soporte,client.284,1,Pago Posterior,Terminada
+1,salesman.5,Soporte,client.284,1,Pago Posterior,Terminada
+1,salesman.28,Soporte,client.454,1,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.85,1,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.85,1,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.85,1,Pago Posterior,Terminada
+1,salesman.16,Cobranza,client.633,1,Pago Posterior,Terminada
+1,salesman.28,Cobranza,client.393,1,Pago Posterior,Terminada
+1,salesman.16,Prestamo,client.675,1,Pago Posterior,Prestado
+1,salesman.28,Venta,client.93,1,Pago Posterior,Anulada
+1,salesman.28,Soporte,client.596,1,Pago Posterior,Terminada
+1,salesman.40,Venta,client.687,1,Pago Contra Entrega,Terminada
+1,salesman.28,Cobranza,client.448,1,Pago Posterior,Terminada
+1,salesman.28,Cobranza,client.448,1,Pago Posterior,Terminada
+1,salesman.28,Venta,client.590,1,Pago Posterior,Terminada
+1,salesman.5,Soporte,client.284,1,Pago Posterior,Terminada
+1,salesman.16,Venta,client.649,1,Pago Contra Entrega,Terminada
+1,salesman.16,Venta,client.94,1,Pago Posterior,Terminada
+2,salesman.16,Venta,client.112,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.512,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.371,2,Pago Posterior,Terminada
+1,salesman.28,Soporte,client.371,1,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.93,2,Pago Posterior,Anulada
+2,salesman.28,Soporte,client.93,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.93,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.590,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.590,2,Pago Posterior,Terminada
+2,salesman.40,Prestamo,client.85,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.448,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.93,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.631,2,Pago Contra Entrega,Terminada
+1,salesman.28,Venta,client.413,1,Pago Posterior,Terminada
+12,salesman.40,Prestamo,client.677,12,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.688,1,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.85,1,Pago Posterior,Prestado
+2,salesman.28,Cobranza,client.661,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.690,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.499,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.499,2,Pago Posterior,Terminada
+11,salesman.5,Venta,client.111,11,Pago Contra Entrega,Terminada
+12,salesman.40,Prestamo,client.681,12,Pago Posterior,Terminada
+2,salesman.28,Venta,client.448,2,Pago Posterior,Terminada
+2,salesman.28,Cobranza,client.350,2,Pago Posterior,Terminada
+2,salesman.28,Cobranza,client.371,2,Pago Posterior,Terminada
+2,salesman.5,Cobranza,client.233,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.35,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.98,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.454,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.454,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.531,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.371,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.545,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.448,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.668,2,Pago Contra Entrega,Terminada
+2,salesman.40,Prestamo,client.688,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.448,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.80,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.80,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.454,2,Pago Posterior,Terminada
+2,salesman.28,Venta,client.448,2,Pago Posterior,Terminada
+2,salesman.5,Prestamo,client.550,2,Pago Posterior,Terminada
+2,salesman.4,Soporte,client.388,2,Pago Posterior,Terminada
+2,salesman.4,Soporte,client.388,2,Pago Posterior,Terminada
+2,salesman.4,Soporte,client.388,2,Pago Posterior,Terminada
+2,salesman.4,Soporte,client.388,2,Pago Posterior,Terminada
+2,salesman.4,Soporte,client.388,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.80,2,Pago Posterior,Terminada
+2,salesman.5,Arriendo,client.277,2,Pago Posterior,Terminada
+2,salesman.5,Cobranza,client.111,2,Pago Posterior,Terminada
+2,salesman.5,Cobranza,client.111,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.545,2,Pago Posterior,Terminada
+2,salesman.16,Venta,client.590,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.590,2,Pago Posterior,Terminada
+2,salesman.28,Cobranza,client.590,2,Pago Posterior,Terminada
+2,salesman.5,Arriendo,client.277,2,Pago Posterior,Terminada
+2,salesman.16,Soporte,client.676,2,Pago ya Efectuado,Anulada
+2,salesman.28,Cobranza,client.429,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.38,2,Pago Posterior,Terminada
+2,salesman.42,Venta,client.563,2,Pago Contra Entrega,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.40,Soporte,client.516,2,Pago Posterior,Terminada
+2,salesman.43,Venta,client.501,2,Pago Posterior,Terminada
+2,salesman.43,Venta,client.590,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.38,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.284,2,Pago Contra Entrega,Terminada
+2,salesman.43,Venta,client.691,2,Pago ya Efectuado,Terminada
+2,salesman.5,Venta,client.111,2,Pago Contra Entrega,Terminada
+2,salesman.5,Soporte,client.211,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.211,2,Pago Posterior,Terminada
+2,salesman.40,Soporte,client.516,2,Pago Posterior,Terminada
+2,salesman.40,Venta,client.546,2,Pago Posterior,Terminada
+2,salesman.43,Venta,client.693,2,Pago Posterior,Terminada
+2,salesman.40,Prestamo,client.388,2,Pago Posterior,Terminada
+2,salesman.5,Venta,client.560,2,Pago Posterior,Terminada
+3,salesman.40,Venta,client.579,3,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.590,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.590,2,Pago Posterior,Terminada
+2,salesman.28,Soporte,client.590,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.5,Soporte,client.284,2,Pago Posterior,Terminada
+2,salesman.44,Cobranza,client.38,2,Pago Posterior,Terminada
+2,salesman.44,Cobranza,client.80,2,Pago Posterior,Terminada
+2,salesman.44,Cobranza,client.41,2,Pago Posterior,Terminada
+12,salesman.40,Prestamo,client.85,12,Pago Posterior,Terminada
+12,salesman.40,Prestamo,client.85,12,Pago Posterior,Terminada
+12,salesman.28,Venta,client.472,12,Pago Posterior,Terminada
+2,salesman.40,Venta,client.631,2,Pago Posterior,Terminada
+2,salesman.40,Venta,client.694,2,Pago Posterior,Terminada
+2,salesman.44,Cobranza,client.350,3,Pago Posterior,Terminada
+3,salesman.40,Prestamo,client.454,3,Pago Posterior,Terminada
+3,salesman.40,Venta,client.560,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.370,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.80,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.80,3,Pago Posterior,Terminada
+3,salesman.28,Soporte,client.545,3,Pago Posterior,Terminada
+3,salesman.40,Soporte,client.579,3,Pago Posterior,Terminada
+3,salesman.1,Venta,client.156,3,Pago Posterior,Terminada
+3,salesman.40,Venta,client.3,3,Pago Contra Entrega,Terminada
+3,salesman.40,Soporte,client.579,3,Pago Posterior,Terminada
+3,salesman.40,Soporte,client.579,3,Pago Posterior,Terminada
+3,salesman.43,Venta,client.41,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.111,3,Pago Posterior,Terminada
+3,salesman.28,Soporte,client.359,3,Pago Posterior,Terminada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Anulada
+3,salesman.44,Cobranza,client.371,3,Pago Posterior,Terminada
+3,salesman.0,Soporte,client.663,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.661,3,Pago Posterior,Terminada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Anulada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Terminada
+3,salesman.43,Venta,client.371,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.94,3,Pago Posterior,Terminada
+3,salesman.1,Prestamo,client.85,3,Pago Posterior,Prestado
+3,salesman.28,Soporte,client.454,3,Pago Posterior,Terminada
+3,salesman.28,Soporte,client.454,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.112,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.41,3,Pago Posterior,Terminada
+3,salesman.43,Venta,client.545,3,Pago Posterior,Terminada
+3,salesman.40,Venta,client.695,3,Pago Posterior,Terminada
+3,salesman.46,Prestamo,client.542,3,Pago Posterior,Terminada
+3,salesman.5,Prestamo,client.420,3,Pago Posterior,Prestado
+3,salesman.5,Prestamo,client.354,3,Pago Posterior,Terminada
+3,salesman.5,Prestamo,client.80,3,Pago Posterior,Terminada
+3,salesman.5,Prestamo,client.111,3,Pago Posterior,Terminada
+3,salesman.45,Prestamo,client.156,3,Pago Posterior,Terminada
+3,salesman.5,Prestamo,client.28,3,Pago ya Efectuado,Terminada
+3,salesman.43,Venta,client.696,3,Pago Posterior,Anulada
+3,salesman.5,Venta,client.360,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.512,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.98,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.474,3,Pago Posterior,Terminada
+3,salesman.5,Arriendo,client.277,3,Pago Posterior,Terminada
+3,salesman.45,Prestamo,client.393,3,Pago Posterior,Prestado
+3,salesman.5,Soporte,client.651,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.80,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.98,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.684,3,Pago ya Efectuado,Terminada
+3,salesman.44,Cobranza,client.371,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.525,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.284,3,Pago Posterior,Anulada
+3,salesman.5,Soporte,client.284,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.284,3,Pago Posterior,Terminada
+3,salesman.5,Soporte,client.284,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.38,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.93,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.111,3,Pago Contra Entrega,Terminada
+3,salesman.46,Venta,client.696,3,Pago ya Efectuado,Terminada
+3,salesman.5,Prestamo,client.28,3,Pago Posterior,Terminada
+3,salesman.38,Prestamo,client.156,3,Pago ya Efectuado,Terminada
+3,salesman.43,Venta,client.674,3,Pago Contra Entrega,Terminada
+3,salesman.40,Venta,client.590,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.111,3,Pago Posterior,Terminada
+3,salesman.40,Venta,client.688,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.80,3,Pago Posterior,Terminada
+3,salesman.46,Venta,client.698,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.111,3,Pago Contra Entrega,Terminada
+3,salesman.5,Venta,client.80,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.413,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.393,3,Pago Posterior,Terminada
+3,salesman.44,Cobranza,client.393,3,Pago Posterior,Terminada
+3,salesman.38,Prestamo,client.85,3,Pago ya Efectuado,Terminada
+3,salesman.45,Prestamo,client.699,3,Pago Posterior,Terminada
+3,salesman.40,Venta,client.687,3,Pago Posterior,Terminada
+1,salesman.28,Venta,client.93,1,Pago Posterior,Terminada
+1,salesman.28,Prestamo,client.93,1,Pago ya Efectuado,Terminada
+3,salesman.44,Prestamo,client.156,3,Pago ya Efectuado,Terminada
+3,salesman.5,Venta,client.93,3,Pago Contra Entrega,Terminada
+3,salesman.47,Prestamo,client.274,3,Pago Posterior,Prestado
+3,salesman.47,Prestamo,client.274,3,Pago Posterior,Terminada
+3,salesman.59,Prestamo,client.156,3,Pago Posterior,Terminada
+3,salesman.40,Prestamo,client.688,3,Pago Posterior,Prestado
+3,salesman.40,Prestamo,client.688,3,Pago Posterior,Anulada
+3,salesman.43,Venta,client.590,3,Pago Posterior,Terminada
+3,salesman.28,Soporte,client.454,3,Pago Posterior,Terminada
+3,salesman.46,Prestamo,client.700,3,Pago Contra Entrega,Terminada
+3,salesman.59,Cobranza,client.693,3,Pago Posterior,Terminada
+3,salesman.59,Cobranza,client.631,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.111,4,Pago Contra Entrega,Terminada
+3,salesman.40,Soporte,client.688,4,Pago Posterior,Terminada
+3,salesman.45,Venta,client.653,3,Pago Posterior,Terminada
+3,salesman.5,Venta,client.112,4,Pago Posterior,Terminada
+1,salesman.28,Venta,client.413,1,Pago ya Efectuado,Prestado
+4,salesman.43,Venta,client.448,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.127,4,Pago Posterior,Anulada
+4,salesman.38,Prestamo,client.156,4,Pago ya Efectuado,Terminada
+4,salesman.28,Soporte,client.454,4,Pago Posterior,Terminada
+4,salesman.46,Prestamo,client.698,4,Pago Contra Entrega,Terminada
+4,salesman.5,Soporte,client.80,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.77,4,Pago Posterior,Anulada
+4,salesman.43,Venta,client.706,4,Pago Posterior,Terminada
+4,salesman.30,Prestamo,client.156,4,Pago ya Efectuado,Terminada
+4,salesman.43,Venta,client.702,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.702,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.126,4,Pago Posterior,Terminada
+4,salesman.5,Arriendo,client.277,4,Pago Posterior,Terminada
+4,salesman.30,Venta,client.156,4,Pago ya Efectuado,Terminada
+4,salesman.45,Venta,client.703,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.653,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.413,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.277,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.360,4,Pago Posterior,Terminada
+4,salesman.47,Venta,client.452,4,Pago Contra Entrega,Terminada
+4,salesman.5,Prestamo,client.112,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.252,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.252,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.85,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.705,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.649,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.649,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.707,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.707,4,Pago Posterior,Terminada
+4,salesman.47,Arriendo,client.704,4,Pago Posterior,Anulada
+4,salesman.47,Prestamo,client.704,4,Pago Posterior,Terminada
+4,salesman.47,Venta,client.452,4,Pago Contra Entrega,Terminada
+4,salesman.5,Venta,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.35,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.622,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.622,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.371,4,Pago Posterior,Terminada
+4,salesman.43,Prestamo,client.708,4,Pago Posterior,Prestado
+4,salesman.5,Venta,client.80,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.93,4,Pago Contra Entrega,Terminada
+4,salesman.40,Prestamo,client.560,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.573,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.710,4,Pago Posterior,Terminada
+4,salesman.5,Prestamo,client.334,4,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.86,1,Pago Posterior,Terminada
+1,salesman.40,Prestamo,client.689,1,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.284,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.284,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.284,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.284,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.395,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.590,4,Pago Posterior,Terminada
+4,salesman.59,Cobranza,client.590,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.350,4,Pago Posterior,Terminada
+5,salesman.40,Venta,client.4,5,Pago Posterior,Terminada
+4,salesman.43,Venta,client.590,4,Pago Posterior,Anulada
+4,salesman.59,Cobranza,client.38,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.448,4,Pago Posterior,Terminada
+4,salesman.5,Arriendo,client.277,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.3,4,Pago Posterior,Terminada
+4,salesman.40,Soporte,client.388,4,Pago Posterior,Terminada
+4,salesman.40,Soporte,client.388,4,Pago Posterior,Terminada
+4,salesman.40,Soporte,client.388,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.531,4,Pago Posterior,Terminada
+5,salesman.46,Venta,client.698,5,Pago Contra Entrega,Terminada
+4,salesman.40,Soporte,client.631,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.94,4,Pago Posterior,Terminada
+4,salesman.43,Prestamo,client.590,4,Pago Posterior,Prestado
+4,salesman.43,Venta,client.454,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.653,4,Pago Posterior,Terminada
+4,salesman.28,Soporte,client.454,4,Pago Posterior,Terminada
+4,salesman.47,Prestamo,client.712,4,Pago Posterior,Terminada
+4,salesman.47,Prestamo,client.713,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.499,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.371,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.505,4,Pago Posterior,Terminada
+4,salesman.47,Prestamo,client.714,4,Pago Posterior,Terminada
+4,salesman.47,Prestamo,client.714,4,Pago Posterior,Anulada
+4,salesman.46,Venta,client.711,4,Pago Contra Entrega,Terminada
+4,salesman.43,Venta,client.448,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.716,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.512,4,Pago Contra Entrega,Terminada
+4,salesman.5,Venta,client.38,4,Pago Posterior,Anulada
+4,salesman.5,Venta,client.38,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.573,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.80,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.717,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.717,4,Pago Posterior,Terminada
+4,salesman.47,Venta,client.718,4,Pago Contra Entrega,Terminada
+4,salesman.59,Cobranza,client.80,4,Pago Posterior,Terminada
+4,salesman.43,Soporte,client.413,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.502,4,Pago Posterior,Terminada
+4,salesman.45,Prestamo,client.502,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.560,4,Pago Posterior,Terminada
+4,salesman.45,Soporte,client.710,4,Pago Posterior,Anulada
+4,salesman.45,Soporte,client.707,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.360,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.601,4,Pago Posterior,Terminada
+4,salesman.43,Prestamo,client.41,4,Pago Posterior,Terminada
+4,salesman.43,Prestamo,client.41,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.719,4,Pago Posterior,Terminada
+4,salesman.38,Prestamo,client.156,4,Pago ya Efectuado,Terminada
+4,salesman.43,Venta,client.3,4,Pago Posterior,Terminada
+4,salesman.46,Venta,client.482,4,Pago Posterior,Terminada
+4,salesman.59,Cobranza,client.674,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Soporte,client.275,4,Pago Posterior,Terminada
+4,salesman.5,Prestamo,client.420,4,Pago Posterior,Anulada
+4,salesman.59,Cobranza,client.41,5,Pago Posterior,Terminada
+4,salesman.59,Cobranza,client.112,5,Pago Posterior,Terminada
+4,salesman.47,Prestamo,client.714,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.688,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.420,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.579,4,Pago Posterior,Anulada
+4,salesman.45,Prestamo,client.502,4,Pago Posterior,Terminada
+4,salesman.45,Venta,client.653,4,Pago Posterior,Terminada
+4,salesman.1,Venta,client.356,4,Pago Posterior,Armado
+4,salesman.59,Cobranza,client.371,4,Pago Posterior,Terminada
+4,salesman.43,Venta,client.601,4,Pago Posterior,Terminada
+4,salesman.40,Venta,client.721,4,Pago Posterior,Terminada
+4,salesman.46,Venta,client.720,4,Pago Contra Entrega,Terminada
+4,salesman.40,Prestamo,client.231,4,Pago Posterior,Terminada
+4,salesman.5,Venta,client.420,5,Pago Posterior,Terminada
+4,salesman.40,Venta,client.85,5,Pago Posterior,Terminada
+5,salesman.40,Soporte,client.251,5,Pago Posterior,Terminada
+5,salesman.43,Soporte,client.454,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.573,5,Pago Posterior,Terminada
+5,salesman.46,Venta,client.724,5,Pago Contra Entrega,Terminada
+5,salesman.59,Cobranza,client.448,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.4,5,Pago Posterior,Anulada
+5,salesman.40,Soporte,client.560,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.275,5,Pago Posterior,Terminada
+5,salesman.43,Prestamo,client.3,5,Pago Posterior,Prestado
+5,salesman.59,Cobranza,client.371,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.370,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.251,5,Pago Contra Entrega,Terminada
+5,salesman.5,Prestamo,client.492,5,Pago Posterior,Anulada
+5,salesman.59,Cobranza,client.688,5,Pago Posterior,Terminada
+5,salesman.43,Venta,client.41,5,Pago Posterior,Terminada
+5,salesman.45,Prestamo,client.653,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.694,5,Pago Posterior,Terminada
+5,salesman.46,Prestamo,client.542,5,Pago Posterior,Prestado
+5,salesman.59,Cobranza,client.590,5,Pago Posterior,Terminada
+12,salesman.28,Soporte,client.360,12,Pago Posterior,Terminada
+5,salesman.40,Venta,client.721,5,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.501,5,Pago Posterior,Terminada
+5,salesman.43,Venta,client.41,5,Pago Posterior,Terminada
+5,salesman.43,Prestamo,client.3,5,Pago Posterior,Prestado
+5,salesman.5,Arriendo,client.277,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.531,5,Pago Posterior,Terminada
+5,salesman.46,Prestamo,client.631,5,Pago Posterior,Terminada
+12,salesman.5,Prestamo,client.80,12,Pago Posterior,Terminada
+1,salesman.28,Prestamo,client.631,1,Pago ya Efectuado,Terminada
+1,salesman.28,Venta,client.421,1,Pago ya Efectuado,Prestado
+5,salesman.40,Venta,client.236,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.236,5,Pago Posterior,Anulada
+5,salesman.5,Venta,client.642,5,Pago Contra Entrega,Terminada
+5,salesman.59,Cobranza,client.706,5,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.80,5,Pago Posterior,Terminada
+5,salesman.43,Prestamo,client.603,5,Pago Posterior,Prestado
+5,salesman.43,Venta,client.499,5,Pago Posterior,Terminada
+5,salesman.45,Prestamo,client.393,5,Pago Posterior,Facturacion
+5,salesman.40,Venta,client.688,5,Pago Posterior,Terminada
+5,salesman.47,Prestamo,client.727,5,Pago Posterior,Terminada
+5,salesman.46,Prestamo,client.482,5,Pago Posterior,Terminada
+11,salesman.28,Venta,client.350,11,Pago Posterior,Terminada
+5,salesman.5,Venta,client.275,5,Pago Posterior,Terminada
+5,salesman.40,Soporte,client.688,5,Pago Posterior,Terminada
+5,salesman.5,Soporte,client.93,5,Pago Posterior,Terminada
+5,salesman.47,Venta,client.704,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.284,5,Pago Contra Entrega,Terminada
+5,salesman.5,Arriendo,client.277,5,Pago Posterior,Terminada
+5,salesman.5,Arriendo,client.277,5,Pago Posterior,Terminada
+5,salesman.46,Venta,client.530,5,Pago Contra Entrega,Terminada
+5,salesman.46,Venta,client.631,5,Pago Contra Entrega,Terminada
+5,salesman.46,Venta,client.631,5,Pago Contra Entrega,Terminada
+10,salesman.39,Prestamo,client.331,10,Pago Posterior,Terminada
+5,salesman.45,Venta,client.707,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.111,5,Pago Contra Entrega,Terminada
+5,salesman.40,Venta,client.231,5,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.94,5,Pago Posterior,Terminada
+5,salesman.45,Venta,client.728,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.694,5,Pago Posterior,Terminada
+5,salesman.43,Venta,client.41,5,Pago Posterior,Terminada
+5,salesman.45,Prestamo,client.729,5,Pago Posterior,Terminada
+5,salesman.43,Venta,client.590,5,Pago Posterior,Terminada
+5,salesman.43,Venta,client.590,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.360,5,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.38,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.27,5,Pago Posterior,Terminada
+5,salesman.44,Prestamo,client.156,5,Pago Posterior,Terminada
+5,salesman.64,Venta,client.669,5,Pago Posterior,Terminada
+5,salesman.64,Venta,client.669,5,Pago Posterior,Anulada
+5,salesman.5,Arriendo,client.277,5,Pago Posterior,Terminada
+5,salesman.43,Prestamo,client.413,5,Pago Posterior,Terminada
+5,salesman.43,Prestamo,client.413,5,Pago Posterior,Terminada
+5,salesman.40,Prestamo,client.156,5,Pago Posterior,Terminada
+6,salesman.43,Venta,client.737,6,Pago Posterior,Terminada
+5,salesman.43,Venta,client.3,5,Pago Posterior,Terminada
+5,salesman.45,Venta,client.382,5,Pago Contra Entrega,Terminada
+5,salesman.46,Prestamo,client.698,5,Pago Posterior,Prestado
+5,salesman.47,Prestamo,client.713,5,Pago Posterior,Prestado
+5,salesman.47,Prestamo,client.257,5,Pago Posterior,Terminada
+5,salesman.40,Soporte,client.4,5,Pago Posterior,Terminada
+5,salesman.40,Soporte,client.4,5,Pago Posterior,Terminada
+5,salesman.47,Venta,client.274,5,Pago Posterior,Terminada
+5,salesman.64,Venta,client.669,5,Pago Posterior,Terminada
+5,salesman.40,Venta,client.688,5,Pago Posterior,Terminada
+5,salesman.46,Prestamo,client.700,5,Pago Posterior,Terminada
+5,salesman.45,Prestamo,client.653,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.420,5,Pago Posterior,Terminada
+5,salesman.5,Venta,client.112,5,Pago Posterior,Terminada
+5,salesman.47,Prestamo,client.257,6,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.334,5,Pago Posterior,Terminada
+5,salesman.28,Soporte,client.590,6,Pago Posterior,Terminada
+5,salesman.5,Venta,client.80,6,Pago Posterior,Terminada
+5,salesman.5,Prestamo,client.80,6,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.112,6,Pago Posterior,Terminada
+5,salesman.59,Cobranza,client.275,5,Pago Posterior,Terminada
+5,salesman.45,Venta,client.733,6,Pago Posterior,Terminada
+5,salesman.5,Venta,client.112,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.590,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.106,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.717,6,Pago Posterior,Terminada
+6,salesman.40,Prestamo,client.331,6,Pago Posterior,Terminada
+6,salesman.47,Prestamo,client.735,6,Pago Posterior,Anulada
+6,salesman.47,Prestamo,client.735,6,Pago Posterior,Terminada
+6,salesman.47,Prestamo,client.735,6,Pago Posterior,Terminada
+6,salesman.43,Prestamo,client.429,6,Pago Posterior,Anulada
+6,salesman.43,Prestamo,client.429,6,Pago Posterior,Anulada
+6,salesman.59,Cobranza,client.41,7,Pago Posterior,Terminada
+6,salesman.40,Prestamo,client.61,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.698,6,Pago Contra Entrega,Terminada
+6,salesman.59,Cobranza,client.420,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.706,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.482,6,Pago Posterior,Terminada
+6,salesman.64,Venta,client.669,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.448,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.429,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.413,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.288,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.117,6,Pago Posterior,Terminada
+6,salesman.46,Soporte,client.698,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.413,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.572,6,Pago Contra Entrega,Terminada
+6,salesman.5,Venta,client.360,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.80,6,Pago Posterior,Terminada
+6,salesman.40,Soporte,client.4,6,Pago Posterior,Terminada
+6,salesman.43,Prestamo,client.601,6,Pago Posterior,Prestado
+6,salesman.40,Prestamo,client.739,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.93,6,Pago Posterior,Anulada
+6,salesman.5,Venta,client.93,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.93,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.631,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.371,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.584,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.41,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.420,6,Pago Posterior,Terminada
+6,salesman.38,Prestamo,client.117,6,Pago ya Efectuado,Terminada
+6,salesman.5,Venta,client.350,6,Pago Posterior,Terminada
+6,salesman.5,Arriendo,client.277,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.117,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.688,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.111,6,Pago Contra Entrega,Terminada
+6,salesman.5,Venta,client.93,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.653,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.41,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.590,6,Pago Posterior,Anulada
+6,salesman.43,Venta,client.448,6,Pago Posterior,Terminada
+6,salesman.45,Prestamo,client.740,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.688,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.717,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+7,salesman.40,Venta,client.739,7,Pago ya Efectuado,Terminada
+6,salesman.15,Soporte,client.410,6,Pago Posterior,Anulada
+6,salesman.59,Cobranza,client.725,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.275,6,Pago Posterior,Terminada
+6,salesman.40,Prestamo,client.741,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.371,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.448,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.631,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.631,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.743,6,Pago ya Efectuado,Terminada
+6,salesman.59,Cobranza,client.371,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.744,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.38,6,Pago Posterior,Terminada
+6,salesman.45,Prestamo,client.156,6,Pago Posterior,Terminada
+6,salesman.43,Venta,client.371,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.371,6,Pago Posterior,Terminada
+6,salesman.40,Prestamo,client.746,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.688,6,Pago Posterior,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+6,salesman.59,Venta,client.117,6,Pago Posterior,Terminada
+6,salesman.59,Arriendo,client.156,6,Pago ya Efectuado,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.40,Venta,client.232,6,Pago Posterior,Terminada
+6,salesman.45,Venta,client.499,6,Pago Posterior,Terminada
+6,salesman.45,Prestamo,client.667,6,Pago Posterior,Terminada
+7,salesman.59,Venta,client.448,7,Pago Posterior,Terminada
+6,salesman.45,Venta,client.399,6,Pago Posterior,Terminada
+6,salesman.5,Venta,client.98,6,Pago Contra Entrega,Terminada
+6,salesman.43,Soporte,client.454,6,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.80,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.80,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.284,6,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.80,7,Pago Posterior,Terminada
+6,salesman.43,Venta,client.41,7,Pago Posterior,Terminada
+6,salesman.45,Prestamo,client.61,7,Pago Posterior,Terminada
+6,salesman.45,Prestamo,client.61,7,Pago Posterior,Terminada
+6,salesman.40,Venta,client.579,7,Pago Posterior,Terminada
+6,salesman.5,Prestamo,client.642,7,Pago ya Efectuado,Terminada
+6,salesman.44,Venta,client.383,7,Pago Posterior,Terminada
+6,salesman.59,Cobranza,client.688,6,Pago Posterior,Terminada
+6,salesman.5,Soporte,client.80,7,Pago Posterior,Terminada
+6,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+6,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+6,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+6,salesman.47,Prestamo,client.371,7,Pago Posterior,Prestado
+6,salesman.47,Venta,client.371,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.748,7,Pago Posterior,Terminada
+7,salesman.43,Venta,client.41,7,Pago Posterior,Terminada
+7,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.4,7,Pago Posterior,Terminada
+7,salesman.64,Venta,client.669,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.284,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.284,7,Pago Contra Entrega,Terminada
+7,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+7,salesman.28,Soporte,client.590,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.94,7,Pago Posterior,Terminada
+7,salesman.5,Prestamo,client.117,7,Pago Posterior,Prestado
+7,salesman.43,Soporte,client.41,7,Pago Posterior,Terminada
+7,salesman.47,Venta,client.714,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.413,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.653,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.420,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.531,7,Pago Posterior,Terminada
+7,salesman.43,Venta,client.448,7,Pago Posterior,Terminada
+7,salesman.43,Venta,client.448,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.388,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.420,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.454,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.117,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.590,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.448,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.448,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Anulada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.274,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.371,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.80,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.744,7,Pago Posterior,Terminada
+7,salesman.59,Prestamo,client.738,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.382,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Anulada
+7,salesman.45,Venta,client.702,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.667,7,Pago Posterior,Terminada
+7,salesman.40,Prestamo,client.746,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.80,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.350,7,Pago Posterior,Terminada
+7,salesman.40,Prestamo,client.747,7,Pago Posterior,Terminada
+7,salesman.40,Prestamo,client.746,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.482,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.420,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.41,7,Pago Posterior,Terminada
+7,salesman.5,Arriendo,client.277,7,Pago Posterior,Anulada
+7,salesman.5,Arriendo,client.277,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.371,7,Pago Posterior,Terminada
+7,salesman.43,Venta,client.601,7,Pago Posterior,Terminada
+7,salesman.43,Venta,client.448,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.211,7,Pago Posterior,Terminada
+7,salesman.31,Cobranza,client.725,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.738,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.77,7,Pago Posterior,Anulada
+7,salesman.47,Prestamo,client.565,7,Pago Posterior,Terminada
+7,salesman.47,Prestamo,client.565,7,Pago Posterior,Terminada
+7,salesman.5,Prestamo,client.117,7,Pago Posterior,Prestado
+7,salesman.40,Venta,client.738,7,Pago Posterior,Terminada
+7,salesman.59,Cobranza,client.275,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.80,7,Pago Posterior,Terminada
+7,salesman.5,Arriendo,client.277,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.751,7,Pago ya Efectuado,Terminada
+7,salesman.43,Soporte,client.41,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.319,7,Pago Contra Entrega,Terminada
+7,salesman.59,Cobranza,client.112,7,Pago Posterior,Terminada
+7,salesman.31,Cobranza,client.429,7,Pago Contra Entrega,Terminada
+7,salesman.31,Cobranza,client.420,7,Pago Contra Entrega,Terminada
+7,salesman.31,Cobranza,client.371,7,Pago Contra Entrega,Terminada
+7,salesman.45,Venta,client.752,7,Pago ya Efectuado,Terminada
+7,salesman.59,Cobranza,client.236,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.94,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.277,7,Pago Posterior,Terminada
+7,salesman.31,Cobranza,client.350,7,Pago Contra Entrega,Terminada
+7,salesman.40,Venta,client.631,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.420,7,Pago Posterior,Terminada
+7,salesman.45,Prestamo,client.667,7,Pago Posterior,Terminada
+7,salesman.64,Venta,client.669,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.388,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.388,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.388,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.388,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.681,7,Pago Posterior,Anulada
+7,salesman.40,Venta,client.681,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.80,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.252,7,Pago Posterior,Terminada
+7,salesman.45,Prestamo,client.740,7,Pago Posterior,Terminada
+7,salesman.47,Prestamo,client.697,7,Pago Posterior,Terminada
+7,salesman.47,Prestamo,client.697,7,Pago Posterior,Terminada
+7,salesman.31,Cobranza,client.117,7,Pago Contra Entrega,Terminada
+7,salesman.31,Cobranza,client.482,7,Pago Contra Entrega,Terminada
+7,salesman.40,Venta,client.688,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.688,7,Pago Posterior,Terminada
+7,salesman.40,Soporte,client.688,7,Pago Posterior,Terminada
+7,salesman.5,Venta,client.252,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.454,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.454,7,Pago Posterior,Terminada
+7,salesman.47,Venta,client.371,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.505,7,Pago Posterior,Terminada
+7,salesman.45,Prestamo,client.724,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.746,7,Pago Posterior,Terminada
+7,salesman.45,Venta,client.707,7,Pago Contra Entrega,Terminada
+7,salesman.5,Venta,client.420,7,Pago Posterior,Terminada
+7,salesman.43,Soporte,client.454,7,Pago Posterior,Terminada
+7,salesman.40,Venta,client.631,7,Pago Posterior,Terminada
+7,salesman.45,Prestamo,client.754,7,Pago Posterior,Terminada
+2,salesman.45,Soporte,client.284,2,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.738,8,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.354,7,Pago Posterior,Terminada
+7,salesman.5,Soporte,client.354,7,Pago Posterior,Anulada
+7,salesman.5,Soporte,client.354,7,Pago Posterior,Terminada
+8,salesman.40,Venta,client.560,8,Pago Posterior,Terminada
+8,salesman.5,Soporte,client.371,8,Pago Posterior,Terminada
+8,salesman.5,Venta,client.633,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.707,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.156,8,Pago ya Efectuado,Terminada
+8,salesman.47,Venta,client.714,8,Pago Posterior,Terminada
+8,salesman.43,Venta,client.448,8,Pago Contra Entrega,Terminada
+8,salesman.5,Prestamo,client.675,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.579,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.705,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.284,8,Pago Contra Entrega,Terminada
+8,salesman.40,Prestamo,client.738,8,Pago Posterior,Terminada
+8,salesman.46,Soporte,client.631,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.399,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.41,8,Pago Contra Entrega,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.560,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.94,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.757,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.753,8,Pago Posterior,Terminada
+8,salesman.1,Venta,client.356,8,Pago Posterior,Terminada
+8,salesman.1,Venta,client.356,8,Pago Posterior,Terminada
+8,salesman.45,Prestamo,client.758,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.738,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.738,8,Pago Posterior,Terminada
+8,salesman.1,Venta,client.649,8,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.707,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.448,8,Pago Contra Entrega,Terminada
+8,salesman.47,Venta,client.735,8,Pago Posterior,Terminada
+8,salesman.45,Prestamo,client.590,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.371,8,Pago Contra Entrega,Terminada
+8,salesman.45,Prestamo,client.429,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.420,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.337,8,Pago Posterior,Terminada
+8,salesman.79,Venta,client.156,8,Pago ya Efectuado,Anulada
+8,salesman.47,Venta,client.760,9,Pago Posterior,Terminada
+8,salesman.43,Venta,client.41,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.111,8,Pago Contra Entrega,Terminada
+8,salesman.43,Soporte,client.454,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.631,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.717,8,Pago Posterior,Terminada
+8,salesman.40,Prestamo,client.275,8,Pago Posterior,Terminada
+8,salesman.40,Prestamo,client.275,8,Pago Posterior,Anulada
+10,salesman.40,Venta,client.738,10,Pago Posterior,Contabilidad
+8,salesman.59,Venta,client.601,8,Pago Posterior,Terminada
+8,salesman.47,Prestamo,client.371,8,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.252,8,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.252,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.420,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.420,8,Pago Posterior,Terminada
+8,salesman.59,Arriendo,client.277,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.688,8,Pago Posterior,Terminada
+8,salesman.43,Soporte,client.590,8,Pago Posterior,Terminada
+8,salesman.40,Prestamo,client.85,8,Pago Posterior,Anulada
+8,salesman.31,Cobranza,client.284,8,Pago Contra Entrega,Terminada
+8,salesman.40,Soporte,client.688,8,Pago Posterior,Terminada
+8,salesman.59,Prestamo,client.85,8,Pago Posterior,Prestado
+8,salesman.40,Soporte,client.688,8,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.707,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.717,8,Pago Posterior,Terminada
+8,salesman.40,Prestamo,client.27,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.80,8,Pago Contra Entrega,Terminada
+8,salesman.40,Soporte,client.516,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.516,8,Pago Posterior,Terminada
+8,salesman.40,Soporte,client.516,8,Pago Posterior,Terminada
+8,salesman.46,Soporte,client.631,8,Pago Posterior,Terminada
+8,salesman.5,Soporte,client.80,8,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,8,Pago Posterior,Anulada
+8,salesman.45,Venta,client.284,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.61,8,Pago Posterior,Terminada
+8,salesman.45,Prestamo,client.98,8,Pago Posterior,Prestado
+8,salesman.47,Venta,client.371,8,Pago Posterior,Anulada
+8,salesman.31,Cobranza,client.94,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.759,8,Pago ya Efectuado,Terminada
+8,salesman.1,Prestamo,client.156,8,Pago Posterior,Terminada
+8,salesman.43,Venta,client.41,8,Pago Posterior,Terminada
+8,salesman.43,Venta,client.41,8,Pago Posterior,Terminada
+8,salesman.1,Prestamo,client.85,8,Pago Posterior,Prestado
+8,salesman.47,Venta,client.371,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.667,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.667,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.687,8,Pago Posterior,Terminada
+8,salesman.47,Venta,client.80,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.252,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.694,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.707,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.429,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.505,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.4,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.599,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.738,8,Pago Posterior,Terminada
+8,salesman.40,Venta,client.27,8,Pago Posterior,Terminada
+8,salesman.47,Prestamo,client.542,8,Pago Posterior,Terminada
+8,salesman.31,Cobranza,client.252,8,Pago Contra Entrega,Terminada
+8,salesman.45,Venta,client.98,8,Pago Contra Entrega,Terminada
+8,salesman.46,Soporte,client.631,8,Pago Posterior,Terminada
+8,salesman.45,Venta,client.413,8,Pago Posterior,Anulada
+8,salesman.31,Cobranza,client.413,9,Pago Contra Entrega,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.284,9,Pago Posterior,Terminada
+8,salesman.47,Venta,client.570,9,Pago Posterior,Terminada
+8,salesman.43,Venta,client.117,9,Pago Contra Entrega,Contabilidad
+8,salesman.47,Venta,client.371,9,Pago Posterior,Terminada
+8,salesman.1,Prestamo,client.156,9,Pago Posterior,Terminada
+8,salesman.45,Soporte,client.420,9,Pago Posterior,Terminada
+8,salesman.45,Venta,client.420,9,Pago Posterior,Terminada
+8,salesman.47,Venta,client.712,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.761,9,Pago Contra Entrega,Terminada
+9,salesman.31,Cobranza,client.420,9,Pago Contra Entrega,Terminada
+9,salesman.45,Venta,client.752,9,Pago ya Efectuado,Terminada
+9,salesman.31,Cobranza,client.252,9,Pago Contra Entrega,Terminada
+9,salesman.45,Venta,client.284,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.707,9,Pago Contra Entrega,Terminada
+9,salesman.45,Prestamo,client.667,9,Pago Posterior,Anulada
+9,salesman.40,Venta,client.27,9,Pago Posterior,Terminada
+9,salesman.47,Venta,client.427,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.599,9,Pago Contra Entrega,Terminada
+9,salesman.47,Prestamo,client.371,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.740,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.448,9,Pago Posterior,Terminada
+9,salesman.40,Prestamo,client.579,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.420,9,Pago Posterior,Terminada
+9,salesman.47,Soporte,client.80,9,Pago Posterior,Terminada
+9,salesman.47,Prestamo,client.565,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.420,9,Pago Posterior,Terminada
+9,salesman.43,Soporte,client.454,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.98,9,Pago Contra Entrega,Terminada
+9,salesman.47,Prestamo,client.370,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.413,9,Pago Posterior,Terminada
+10,salesman.47,Venta,client.371,10,Pago Posterior,Terminada
+9,salesman.45,Venta,client.590,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.724,9,Pago Contra Entrega,Anulada
+9,salesman.45,Venta,client.724,9,Pago Contra Entrega,Terminada
+9,salesman.30,Soporte,client.763,9,Pago Posterior,Terminada
+9,salesman.45,Soporte,client.98,9,Pago Posterior,Terminada
+9,salesman.45,Soporte,client.762,9,Pago Posterior,Terminada
+9,salesman.43,Venta,client.156,9,Pago Posterior,Terminada
+9,salesman.45,Venta,client.429,9,Pago Posterior,Terminada
