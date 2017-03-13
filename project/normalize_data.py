@@ -78,11 +78,12 @@ class Operaciones:
 		
 		self.base_date = self.to_dateObj(self.data[0][1])
 
-		# replace each date string with the day offset from base_date
-		#	OR, replace each date string with just the month value
-		#	OR, replace each date string with a bool vector 12 long
+
 		for i in range(len(self.data)):
-			# strings
+			self.data[i][ID_VENDADOR] = "salesman_"+str(self.data[i][ID_VENDADOR])
+			self.data[i][ID_CLIENTE] = "client_"+str(self.data[i][ID_CLIENTE])
+			
+			# Format Dates
 			f_inicio = self.data[i][F_INICIO]
 			f_fin = self.data[i][F_FIN]
 			
@@ -134,7 +135,7 @@ class Operaciones:
 		print(state_vals)
 		
 		
-		salesmen = list(numpy.transpose(self.data))[3]
+		salesmen = list(numpy.transpose(self.data))[ID_VENDADOR]
 		salesmen_IDs = list(set(salesmen))
 		print("\nSalesmen IDs:")
 		print(salesmen_IDs)
