@@ -182,7 +182,6 @@ class Operaciones:
 		
 '''
 # This is just reference code to help me...
-
 def abaloneData():
 	filename = "./abalone.csv"
 	new_filename = "./abalone_prepped.csv"
@@ -231,7 +230,6 @@ def abaloneData():
 			f.close()
 		except:
 			print("...error writing new file...")
-
 	except:
 		print("error while reading data")
 	finally:
